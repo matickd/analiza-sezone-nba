@@ -1,0 +1,92 @@
+[
+  {
+    "ime": "James Harden",
+    "ekipa": "LAC",
+    "pozicija": "PG",
+    "tekme": "7",
+    "točke": "18.7",
+    "podaje": "9.1",
+    "skoki": "5.4"
+  },
+  {
+    "ime": "Cade Cunningham",
+    "ekipa": "DET",
+    "pozicija": "PG",
+    "tekme": "6",
+    "točke": "25.0",
+    "podaje": "8.7",
+    "skoki": "8.3"
+  },
+  {
+    "ime": "Tyrese Haliburton",
+    "ekipa": "IND",
+    "pozicija": "PG",
+    "tekme": "23",
+    "točke": "17.3",
+    "podaje": "8.6",
+    "skoki": "5.3"
+  },
+  {
+    "ime": "Nikola Jokić",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "14",
+    "točke": "26.2",
+    "podaje": "8.0",
+    "skoki": "12.7"
+  },
+  {
+    "ime": "Jalen Brunson",
+    "ekipa": "NYK",
+    "pozicija": "PG",
+    "tekme": "18",
+    "točke": "29.4",
+    "podaje": "7.0",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Giannis Antetokounmpo",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "5",
+    "točke": "33.0",
+    "podaje": "6.6",
+    "skoki": "15.4"
+  },
+  {
+    "ime": "Shai Gilgeous-Alexander",
+    "ekipa": "OKC",
+    "pozicija": "PG",
+    "tekme": "23",
+    "točke": "29.9",
+    "podaje": "6.5",
+    "skoki": "5.3"
+  },
+  {
+    "ime": "Davion Mitchell",
+    "ekipa": "MIA",
+    "pozicija": "PG",
+    "tekme": "4",
+    "točke": "15.0",
+    "podaje": "6.3",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Luka Dončić",
+    "ekipa": "LAL",
+    "pozicija": "PG",
+    "tekme": "5",
+    "točke": "30.2",
+    "podaje": "5.8",
+    "skoki": "7.0"
+  },
+  {
+    "ime": "Franz Wagner",
+    "ekipa": "ORL",
+    "pozicija": "SF",
+    "tekme": "5",
+    "točke": "25.8",
+    "podaje": "5.6",
+    "skoki": "4.8"
+  }
+]

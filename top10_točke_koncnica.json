@@ -1,0 +1,92 @@
+[
+  {
+    "ime": "Giannis Antetokounmpo",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "5",
+    "točke": "33.0",
+    "podaje": "6.6",
+    "skoki": "15.4"
+  },
+  {
+    "ime": "Luka Dončić",
+    "ekipa": "LAL",
+    "pozicija": "PG",
+    "tekme": "5",
+    "točke": "30.2",
+    "podaje": "5.8",
+    "skoki": "7.0"
+  },
+  {
+    "ime": "Shai Gilgeous-Alexander",
+    "ekipa": "OKC",
+    "pozicija": "PG",
+    "tekme": "23",
+    "točke": "29.9",
+    "podaje": "6.5",
+    "skoki": "5.3"
+  },
+  {
+    "ime": "Donovan Mitchell",
+    "ekipa": "CLE",
+    "pozicija": "SG",
+    "tekme": "9",
+    "točke": "29.6",
+    "podaje": "3.9",
+    "skoki": "4.7"
+  },
+  {
+    "ime": "Paolo Banchero",
+    "ekipa": "ORL",
+    "pozicija": "PF",
+    "tekme": "5",
+    "točke": "29.4",
+    "podaje": "4.2",
+    "skoki": "8.4"
+  },
+  {
+    "ime": "Jalen Brunson",
+    "ekipa": "NYK",
+    "pozicija": "PG",
+    "tekme": "18",
+    "točke": "29.4",
+    "podaje": "7.0",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Jayson Tatum",
+    "ekipa": "BOS",
+    "pozicija": "PF",
+    "tekme": "8",
+    "točke": "28.1",
+    "podaje": "5.4",
+    "skoki": "11.5"
+  },
+  {
+    "ime": "Nikola Jokić",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "14",
+    "točke": "26.2",
+    "podaje": "8.0",
+    "skoki": "12.7"
+  },
+  {
+    "ime": "Franz Wagner",
+    "ekipa": "ORL",
+    "pozicija": "SF",
+    "tekme": "5",
+    "točke": "25.8",
+    "podaje": "5.6",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "LeBron James",
+    "ekipa": "LAL",
+    "pozicija": "SF",
+    "tekme": "5",
+    "točke": "25.4",
+    "podaje": "5.6",
+    "skoki": "9.0"
+  }
+]

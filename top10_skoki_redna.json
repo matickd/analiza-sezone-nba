@@ -1,0 +1,92 @@
+[
+  {
+    "ime": "Domantas Sabonis",
+    "ekipa": "SAC",
+    "pozicija": "C",
+    "tekme": "70",
+    "točke": "19.1",
+    "podaje": "6.0",
+    "skoki": "13.9"
+  },
+  {
+    "ime": "Karl-Anthony Towns",
+    "ekipa": "NYK",
+    "pozicija": "C",
+    "tekme": "72",
+    "točke": "24.4",
+    "podaje": "3.1",
+    "skoki": "12.8"
+  },
+  {
+    "ime": "Nikola Jokić",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "70",
+    "točke": "29.6",
+    "podaje": "10.2",
+    "skoki": "12.7"
+  },
+  {
+    "ime": "Ivica Zubac",
+    "ekipa": "LAC",
+    "pozicija": "C",
+    "tekme": "80",
+    "točke": "16.8",
+    "podaje": "2.7",
+    "skoki": "12.6"
+  },
+  {
+    "ime": "Walker Kessler",
+    "ekipa": "UTA",
+    "pozicija": "C",
+    "tekme": "58",
+    "točke": "11.1",
+    "podaje": "1.7",
+    "skoki": "12.2"
+  },
+  {
+    "ime": "Giannis Antetokounmpo",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "67",
+    "točke": "30.4",
+    "podaje": "6.5",
+    "skoki": "11.9"
+  },
+  {
+    "ime": "Anthony Davis",
+    "ekipa": "LAL",
+    "pozicija": "C",
+    "tekme": "42",
+    "točke": "25.7",
+    "podaje": "3.4",
+    "skoki": "11.9"
+  },
+  {
+    "ime": "Victor Wembanyama",
+    "ekipa": "SAS",
+    "pozicija": "C",
+    "tekme": "46",
+    "točke": "24.3",
+    "podaje": "3.7",
+    "skoki": "11.0"
+  },
+  {
+    "ime": "Rudy Gobert",
+    "ekipa": "MIN",
+    "pozicija": "C",
+    "tekme": "72",
+    "točke": "12.0",
+    "podaje": "1.8",
+    "skoki": "10.9"
+  },
+  {
+    "ime": "Isaiah Hartenstein",
+    "ekipa": "OKC",
+    "pozicija": "C",
+    "tekme": "57",
+    "točke": "11.2",
+    "podaje": "3.8",
+    "skoki": "10.7"
+  }
+]

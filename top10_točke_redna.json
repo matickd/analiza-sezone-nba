@@ -1,0 +1,92 @@
+[
+  {
+    "ime": "Shai Gilgeous-Alexander",
+    "ekipa": "OKC",
+    "pozicija": "PG",
+    "tekme": "76",
+    "točke": "32.7",
+    "podaje": "6.4",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "Giannis Antetokounmpo",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "67",
+    "točke": "30.4",
+    "podaje": "6.5",
+    "skoki": "11.9"
+  },
+  {
+    "ime": "Nikola Jokić",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "70",
+    "točke": "29.6",
+    "podaje": "10.2",
+    "skoki": "12.7"
+  },
+  {
+    "ime": "Luka Dončić",
+    "ekipa": "LAL",
+    "pozicija": "PG",
+    "tekme": "28",
+    "točke": "28.2",
+    "podaje": "7.5",
+    "skoki": "8.1"
+  },
+  {
+    "ime": "Luka Dončić",
+    "ekipa": "DAL",
+    "pozicija": "PG",
+    "tekme": "22",
+    "točke": "28.1",
+    "podaje": "7.8",
+    "skoki": "8.3"
+  },
+  {
+    "ime": "Anthony Edwards",
+    "ekipa": "MIN",
+    "pozicija": "SG",
+    "tekme": "79",
+    "točke": "27.6",
+    "podaje": "4.5",
+    "skoki": "5.7"
+  },
+  {
+    "ime": "Jayson Tatum",
+    "ekipa": "BOS",
+    "pozicija": "PF",
+    "tekme": "72",
+    "točke": "26.8",
+    "podaje": "6.0",
+    "skoki": "8.7"
+  },
+  {
+    "ime": "Kevin Durant",
+    "ekipa": "PHO",
+    "pozicija": "PF",
+    "tekme": "62",
+    "točke": "26.6",
+    "podaje": "4.2",
+    "skoki": "6.0"
+  },
+  {
+    "ime": "Tyrese Maxey",
+    "ekipa": "PHI",
+    "pozicija": "PG",
+    "tekme": "52",
+    "točke": "26.3",
+    "podaje": "6.1",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Cade Cunningham",
+    "ekipa": "DET",
+    "pozicija": "PG",
+    "tekme": "70",
+    "točke": "26.1",
+    "podaje": "9.1",
+    "skoki": "6.1"
+  }
+]

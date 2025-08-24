@@ -1,0 +1,5933 @@
+[
+  {
+    "ime": "Shai Gilgeous-Alexander",
+    "ekipa": "OKC",
+    "pozicija": "PG",
+    "tekme": "76",
+    "točke": "32.7",
+    "podaje": "6.4",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "Giannis Antetokounmpo",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "67",
+    "točke": "30.4",
+    "podaje": "6.5",
+    "skoki": "11.9"
+  },
+  {
+    "ime": "Nikola Jokić",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "70",
+    "točke": "29.6",
+    "podaje": "10.2",
+    "skoki": "12.7"
+  },
+  {
+    "ime": "Luka Dončić",
+    "ekipa": "DAL",
+    "pozicija": "PG",
+    "tekme": "22",
+    "točke": "28.1",
+    "podaje": "7.8",
+    "skoki": "8.3"
+  },
+  {
+    "ime": "Luka Dončić",
+    "ekipa": "LAL",
+    "pozicija": "PG",
+    "tekme": "28",
+    "točke": "28.2",
+    "podaje": "7.5",
+    "skoki": "8.1"
+  },
+  {
+    "ime": "Anthony Edwards",
+    "ekipa": "MIN",
+    "pozicija": "SG",
+    "tekme": "79",
+    "točke": "27.6",
+    "podaje": "4.5",
+    "skoki": "5.7"
+  },
+  {
+    "ime": "Jayson Tatum",
+    "ekipa": "BOS",
+    "pozicija": "PF",
+    "tekme": "72",
+    "točke": "26.8",
+    "podaje": "6.0",
+    "skoki": "8.7"
+  },
+  {
+    "ime": "Kevin Durant",
+    "ekipa": "PHO",
+    "pozicija": "PF",
+    "tekme": "62",
+    "točke": "26.6",
+    "podaje": "4.2",
+    "skoki": "6.0"
+  },
+  {
+    "ime": "Tyrese Maxey",
+    "ekipa": "PHI",
+    "pozicija": "PG",
+    "tekme": "52",
+    "točke": "26.3",
+    "podaje": "6.1",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Cade Cunningham",
+    "ekipa": "DET",
+    "pozicija": "PG",
+    "tekme": "70",
+    "točke": "26.1",
+    "podaje": "9.1",
+    "skoki": "6.1"
+  },
+  {
+    "ime": "Jalen Brunson",
+    "ekipa": "NYK",
+    "pozicija": "PG",
+    "tekme": "65",
+    "točke": "26.0",
+    "podaje": "7.3",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Paolo Banchero",
+    "ekipa": "ORL",
+    "pozicija": "PF",
+    "tekme": "46",
+    "točke": "25.9",
+    "podaje": "4.8",
+    "skoki": "7.5"
+  },
+  {
+    "ime": "Devin Booker",
+    "ekipa": "PHO",
+    "pozicija": "SG",
+    "tekme": "75",
+    "točke": "25.6",
+    "podaje": "7.1",
+    "skoki": "4.1"
+  },
+  {
+    "ime": "LaMelo Ball",
+    "ekipa": "CHO",
+    "pozicija": "PG",
+    "tekme": "47",
+    "točke": "25.2",
+    "podaje": "7.4",
+    "skoki": "4.9"
+  },
+  {
+    "ime": "Damian Lillard",
+    "ekipa": "MIL",
+    "pozicija": "PG",
+    "tekme": "58",
+    "točke": "24.9",
+    "podaje": "7.1",
+    "skoki": "4.7"
+  },
+  {
+    "ime": "Anthony Davis",
+    "ekipa": "LAL",
+    "pozicija": "C",
+    "tekme": "42",
+    "točke": "25.7",
+    "podaje": "3.4",
+    "skoki": "11.9"
+  },
+  {
+    "ime": "Anthony Davis",
+    "ekipa": "DAL",
+    "pozicija": "PF",
+    "tekme": "9",
+    "točke": "20.0",
+    "podaje": "4.4",
+    "skoki": "10.1"
+  },
+  {
+    "ime": "Kyrie Irving",
+    "ekipa": "DAL",
+    "pozicija": "SG",
+    "tekme": "50",
+    "točke": "24.7",
+    "podaje": "4.6",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "Zion Williamson",
+    "ekipa": "NOP",
+    "pozicija": "PF",
+    "tekme": "30",
+    "točke": "24.6",
+    "podaje": "5.3",
+    "skoki": "7.2"
+  },
+  {
+    "ime": "Stephen Curry",
+    "ekipa": "GSW",
+    "pozicija": "PG",
+    "tekme": "70",
+    "točke": "24.5",
+    "podaje": "6.0",
+    "skoki": "4.4"
+  },
+  {
+    "ime": "LeBron James",
+    "ekipa": "LAL",
+    "pozicija": "SF",
+    "tekme": "70",
+    "točke": "24.4",
+    "podaje": "8.2",
+    "skoki": "7.8"
+  },
+  {
+    "ime": "Karl-Anthony Towns",
+    "ekipa": "NYK",
+    "pozicija": "C",
+    "tekme": "72",
+    "točke": "24.4",
+    "podaje": "3.1",
+    "skoki": "12.8"
+  },
+  {
+    "ime": "Victor Wembanyama",
+    "ekipa": "SAS",
+    "pozicija": "C",
+    "tekme": "46",
+    "točke": "24.3",
+    "podaje": "3.7",
+    "skoki": "11.0"
+  },
+  {
+    "ime": "Franz Wagner",
+    "ekipa": "ORL",
+    "pozicija": "SF",
+    "tekme": "60",
+    "točke": "24.2",
+    "podaje": "4.7",
+    "skoki": "5.7"
+  },
+  {
+    "ime": "Trae Young",
+    "ekipa": "ATL",
+    "pozicija": "PG",
+    "tekme": "76",
+    "točke": "24.2",
+    "podaje": "11.6",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Donovan Mitchell",
+    "ekipa": "CLE",
+    "pozicija": "SG",
+    "tekme": "71",
+    "točke": "24.0",
+    "podaje": "5.0",
+    "skoki": "4.5"
+  },
+  {
+    "ime": "Cam Thomas",
+    "ekipa": "BRK",
+    "pozicija": "SG",
+    "tekme": "25",
+    "točke": "24.0",
+    "podaje": "3.8",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Tyler Herro",
+    "ekipa": "MIA",
+    "pozicija": "SG",
+    "tekme": "77",
+    "točke": "23.9",
+    "podaje": "5.5",
+    "skoki": "5.2"
+  },
+  {
+    "ime": "Joel Embiid",
+    "ekipa": "PHI",
+    "pozicija": "C",
+    "tekme": "19",
+    "točke": "23.8",
+    "podaje": "4.5",
+    "skoki": "8.2"
+  },
+  {
+    "ime": "De'Aaron Fox",
+    "ekipa": "SAC",
+    "pozicija": "PG",
+    "tekme": "45",
+    "točke": "25.0",
+    "podaje": "6.1",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "De'Aaron Fox",
+    "ekipa": "SAS",
+    "pozicija": "PG",
+    "tekme": "17",
+    "točke": "19.7",
+    "podaje": "6.8",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Zach LaVine",
+    "ekipa": "CHI",
+    "pozicija": "SF",
+    "tekme": "42",
+    "točke": "24.0",
+    "podaje": "4.5",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "Zach LaVine",
+    "ekipa": "SAC",
+    "pozicija": "SG",
+    "tekme": "32",
+    "točke": "22.4",
+    "podaje": "3.8",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "Ja Morant",
+    "ekipa": "MEM",
+    "pozicija": "PG",
+    "tekme": "50",
+    "točke": "23.2",
+    "podaje": "7.3",
+    "skoki": "4.1"
+  },
+  {
+    "ime": "James Harden",
+    "ekipa": "LAC",
+    "pozicija": "PG",
+    "tekme": "79",
+    "točke": "22.8",
+    "podaje": "8.7",
+    "skoki": "5.8"
+  },
+  {
+    "ime": "Jaylen Brown",
+    "ekipa": "BOS",
+    "pozicija": "SF",
+    "tekme": "63",
+    "točke": "22.2",
+    "podaje": "4.5",
+    "skoki": "5.8"
+  },
+  {
+    "ime": "DeMar DeRozan",
+    "ekipa": "SAC",
+    "pozicija": "SF",
+    "tekme": "77",
+    "točke": "22.2",
+    "podaje": "4.4",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Brandon Ingram",
+    "ekipa": "NOP",
+    "pozicija": "SF",
+    "tekme": "18",
+    "točke": "22.2",
+    "podaje": "5.2",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Jaren Jackson Jr.",
+    "ekipa": "MEM",
+    "pozicija": "C",
+    "tekme": "74",
+    "točke": "22.2",
+    "podaje": "2.0",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Norman Powell",
+    "ekipa": "LAC",
+    "pozicija": "SG",
+    "tekme": "60",
+    "točke": "21.8",
+    "podaje": "2.1",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Jalen Williams",
+    "ekipa": "OKC",
+    "pozicija": "SG",
+    "tekme": "69",
+    "točke": "21.6",
+    "podaje": "5.1",
+    "skoki": "5.3"
+  },
+  {
+    "ime": "Kawhi Leonard",
+    "ekipa": "LAC",
+    "pozicija": "SF",
+    "tekme": "37",
+    "točke": "21.5",
+    "podaje": "3.1",
+    "skoki": "5.9"
+  },
+  {
+    "ime": "Jamal Murray",
+    "ekipa": "DEN",
+    "pozicija": "PG",
+    "tekme": "67",
+    "točke": "21.4",
+    "podaje": "6.0",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Trey Murphy III",
+    "ekipa": "NOP",
+    "pozicija": "SF",
+    "tekme": "53",
+    "točke": "21.2",
+    "podaje": "3.5",
+    "skoki": "5.1"
+  },
+  {
+    "ime": "RJ Barrett",
+    "ekipa": "TOR",
+    "pozicija": "SF",
+    "tekme": "58",
+    "točke": "21.1",
+    "podaje": "5.4",
+    "skoki": "6.3"
+  },
+  {
+    "ime": "CJ McCollum",
+    "ekipa": "NOP",
+    "pozicija": "PG",
+    "tekme": "56",
+    "točke": "21.1",
+    "podaje": "4.1",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Jalen Green",
+    "ekipa": "HOU",
+    "pozicija": "SG",
+    "tekme": "82",
+    "točke": "21.0",
+    "podaje": "3.4",
+    "skoki": "4.6"
+  },
+  {
+    "ime": "Brandon Miller",
+    "ekipa": "CHO",
+    "pozicija": "SF",
+    "tekme": "27",
+    "točke": "21.0",
+    "podaje": "3.6",
+    "skoki": "4.9"
+  },
+  {
+    "ime": "Darius Garland",
+    "ekipa": "CLE",
+    "pozicija": "PG",
+    "tekme": "75",
+    "točke": "20.6",
+    "podaje": "6.7",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Jordan Poole",
+    "ekipa": "WAS",
+    "pozicija": "SG",
+    "tekme": "68",
+    "točke": "20.5",
+    "podaje": "4.5",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Coby White",
+    "ekipa": "CHI",
+    "pozicija": "SG",
+    "tekme": "74",
+    "točke": "20.4",
+    "podaje": "4.5",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Miles Bridges",
+    "ekipa": "CHO",
+    "pozicija": "PF",
+    "tekme": "64",
+    "točke": "20.3",
+    "podaje": "3.9",
+    "skoki": "7.5"
+  },
+  {
+    "ime": "Austin Reaves",
+    "ekipa": "LAL",
+    "pozicija": "SG",
+    "tekme": "73",
+    "točke": "20.2",
+    "podaje": "5.8",
+    "skoki": "4.5"
+  },
+  {
+    "ime": "Pascal Siakam",
+    "ekipa": "IND",
+    "pozicija": "PF",
+    "tekme": "78",
+    "točke": "20.2",
+    "podaje": "3.4",
+    "skoki": "6.9"
+  },
+  {
+    "ime": "Kristaps Porziņģis",
+    "ekipa": "BOS",
+    "pozicija": "C",
+    "tekme": "42",
+    "točke": "19.5",
+    "podaje": "2.1",
+    "skoki": "6.8"
+  },
+  {
+    "ime": "Scottie Barnes",
+    "ekipa": "TOR",
+    "pozicija": "PF",
+    "tekme": "65",
+    "točke": "19.3",
+    "podaje": "5.8",
+    "skoki": "7.7"
+  },
+  {
+    "ime": "Anfernee Simons",
+    "ekipa": "POR",
+    "pozicija": "SG",
+    "tekme": "70",
+    "točke": "19.3",
+    "podaje": "4.8",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Desmond Bane",
+    "ekipa": "MEM",
+    "pozicija": "SG",
+    "tekme": "69",
+    "točke": "19.2",
+    "podaje": "5.3",
+    "skoki": "6.1"
+  },
+  {
+    "ime": "Domantas Sabonis",
+    "ekipa": "SAC",
+    "pozicija": "C",
+    "tekme": "70",
+    "točke": "19.1",
+    "podaje": "6.0",
+    "skoki": "13.9"
+  },
+  {
+    "ime": "Alperen Şengün",
+    "ekipa": "HOU",
+    "pozicija": "C",
+    "tekme": "76",
+    "točke": "19.1",
+    "podaje": "4.9",
+    "skoki": "10.3"
+  },
+  {
+    "ime": "John Collins",
+    "ekipa": "UTA",
+    "pozicija": "PF",
+    "tekme": "40",
+    "točke": "19.0",
+    "podaje": "2.0",
+    "skoki": "8.2"
+  },
+  {
+    "ime": "Lauri Markkanen",
+    "ekipa": "UTA",
+    "pozicija": "PF",
+    "tekme": "47",
+    "točke": "19.0",
+    "podaje": "1.5",
+    "skoki": "5.9"
+  },
+  {
+    "ime": "Jalen Johnson",
+    "ekipa": "ATL",
+    "pozicija": "SF",
+    "tekme": "36",
+    "točke": "18.9",
+    "podaje": "5.0",
+    "skoki": "10.0"
+  },
+  {
+    "ime": "Cameron Johnson",
+    "ekipa": "BRK",
+    "pozicija": "PF",
+    "tekme": "57",
+    "točke": "18.8",
+    "podaje": "3.4",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Julius Randle",
+    "ekipa": "MIN",
+    "pozicija": "PF",
+    "tekme": "69",
+    "točke": "18.7",
+    "podaje": "4.7",
+    "skoki": "7.1"
+  },
+  {
+    "ime": "Tyrese Haliburton",
+    "ekipa": "IND",
+    "pozicija": "PG",
+    "tekme": "73",
+    "točke": "18.6",
+    "podaje": "9.2",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "Evan Mobley",
+    "ekipa": "CLE",
+    "pozicija": "PF",
+    "tekme": "71",
+    "točke": "18.5",
+    "podaje": "3.2",
+    "skoki": "9.3"
+  },
+  {
+    "ime": "Shaedon Sharpe",
+    "ekipa": "POR",
+    "pozicija": "SG",
+    "tekme": "72",
+    "točke": "18.5",
+    "podaje": "2.8",
+    "skoki": "4.5"
+  },
+  {
+    "ime": "Nikola Vučević",
+    "ekipa": "CHI",
+    "pozicija": "C",
+    "tekme": "73",
+    "točke": "18.5",
+    "podaje": "3.5",
+    "skoki": "10.1"
+  },
+  {
+    "ime": "Collin Sexton",
+    "ekipa": "UTA",
+    "pozicija": "SG",
+    "tekme": "63",
+    "točke": "18.4",
+    "podaje": "4.2",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Michael Porter Jr.",
+    "ekipa": "DEN",
+    "pozicija": "SF",
+    "tekme": "77",
+    "točke": "18.2",
+    "podaje": "2.1",
+    "skoki": "7.0"
+  },
+  {
+    "ime": "Bam Adebayo",
+    "ekipa": "MIA",
+    "pozicija": "C",
+    "tekme": "78",
+    "točke": "18.1",
+    "podaje": "4.3",
+    "skoki": "9.6"
+  },
+  {
+    "ime": "Andrew Wiggins",
+    "ekipa": "GSW",
+    "pozicija": "SF",
+    "tekme": "43",
+    "točke": "17.6",
+    "podaje": "2.4",
+    "skoki": "4.6"
+  },
+  {
+    "ime": "Andrew Wiggins",
+    "ekipa": "MIA",
+    "pozicija": "SF",
+    "tekme": "17",
+    "točke": "19.0",
+    "podaje": "3.3",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "OG Anunoby",
+    "ekipa": "NYK",
+    "pozicija": "PF",
+    "tekme": "74",
+    "točke": "18.0",
+    "podaje": "2.2",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "Mikal Bridges",
+    "ekipa": "NYK",
+    "pozicija": "SF",
+    "tekme": "82",
+    "točke": "17.6",
+    "podaje": "3.7",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Jaden Ivey",
+    "ekipa": "DET",
+    "pozicija": "SG",
+    "tekme": "30",
+    "točke": "17.6",
+    "podaje": "4.0",
+    "skoki": "4.1"
+  },
+  {
+    "ime": "Jimmy Butler",
+    "ekipa": "MIA",
+    "pozicija": "PF",
+    "tekme": "25",
+    "točke": "17.0",
+    "podaje": "4.8",
+    "skoki": "5.2"
+  },
+  {
+    "ime": "Jimmy Butler",
+    "ekipa": "GSW",
+    "pozicija": "SF",
+    "tekme": "30",
+    "točke": "17.9",
+    "podaje": "5.9",
+    "skoki": "5.5"
+  },
+  {
+    "ime": "Dejounte Murray",
+    "ekipa": "NOP",
+    "pozicija": "PG",
+    "tekme": "31",
+    "točke": "17.5",
+    "podaje": "7.4",
+    "skoki": "6.5"
+  },
+  {
+    "ime": "Malik Monk",
+    "ekipa": "SAC",
+    "pozicija": "SG",
+    "tekme": "65",
+    "točke": "17.2",
+    "podaje": "5.6",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Immanuel Quickley",
+    "ekipa": "TOR",
+    "pozicija": "PG",
+    "tekme": "33",
+    "točke": "17.1",
+    "podaje": "5.8",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "De'Andre Hunter",
+    "ekipa": "ATL",
+    "pozicija": "SF",
+    "tekme": "37",
+    "točke": "19.0",
+    "podaje": "1.5",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "De'Andre Hunter",
+    "ekipa": "CLE",
+    "pozicija": "SF",
+    "tekme": "27",
+    "točke": "14.3",
+    "podaje": "1.3",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Bradley Beal",
+    "ekipa": "PHO",
+    "pozicija": "SG",
+    "tekme": "53",
+    "točke": "17.0",
+    "podaje": "3.7",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Deni Avdija",
+    "ekipa": "POR",
+    "pozicija": "SF",
+    "tekme": "72",
+    "točke": "16.9",
+    "podaje": "3.9",
+    "skoki": "7.3"
+  },
+  {
+    "ime": "Keyonte George",
+    "ekipa": "UTA",
+    "pozicija": "PG",
+    "tekme": "67",
+    "točke": "16.8",
+    "podaje": "5.6",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Ivica Zubac",
+    "ekipa": "LAC",
+    "pozicija": "C",
+    "tekme": "80",
+    "točke": "16.8",
+    "podaje": "2.7",
+    "skoki": "12.6"
+  },
+  {
+    "ime": "Derrick White",
+    "ekipa": "BOS",
+    "pozicija": "SG",
+    "tekme": "76",
+    "točke": "16.4",
+    "podaje": "4.8",
+    "skoki": "4.5"
+  },
+  {
+    "ime": "Malik Beasley",
+    "ekipa": "DET",
+    "pozicija": "SG",
+    "tekme": "82",
+    "točke": "16.3",
+    "podaje": "1.7",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Devin Vassell",
+    "ekipa": "SAS",
+    "pozicija": "SG",
+    "tekme": "64",
+    "točke": "16.3",
+    "podaje": "2.9",
+    "skoki": "4.0"
+  },
+  {
+    "ime": "Jordan Clarkson",
+    "ekipa": "UTA",
+    "pozicija": "SG",
+    "tekme": "37",
+    "točke": "16.2",
+    "podaje": "3.7",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Paul George",
+    "ekipa": "PHI",
+    "pozicija": "PF",
+    "tekme": "41",
+    "točke": "16.2",
+    "podaje": "4.3",
+    "skoki": "5.3"
+  },
+  {
+    "ime": "Jalen Suggs",
+    "ekipa": "ORL",
+    "pozicija": "PG",
+    "tekme": "35",
+    "točke": "16.2",
+    "podaje": "3.7",
+    "skoki": "4.0"
+  },
+  {
+    "ime": "Bennedict Mathurin",
+    "ekipa": "IND",
+    "pozicija": "SF",
+    "tekme": "72",
+    "točke": "16.1",
+    "podaje": "1.9",
+    "skoki": "5.3"
+  },
+  {
+    "ime": "Myles Turner",
+    "ekipa": "IND",
+    "pozicija": "C",
+    "tekme": "72",
+    "točke": "15.6",
+    "podaje": "1.5",
+    "skoki": "6.5"
+  },
+  {
+    "ime": "Christian Braun",
+    "ekipa": "DEN",
+    "pozicija": "SG",
+    "tekme": "79",
+    "točke": "15.4",
+    "podaje": "2.6",
+    "skoki": "5.2"
+  },
+  {
+    "ime": "Jonathan Kuminga",
+    "ekipa": "GSW",
+    "pozicija": "PF",
+    "tekme": "47",
+    "točke": "15.3",
+    "podaje": "2.2",
+    "skoki": "4.6"
+  },
+  {
+    "ime": "Jared McCain",
+    "ekipa": "PHI",
+    "pozicija": "SG",
+    "tekme": "23",
+    "točke": "15.3",
+    "podaje": "2.6",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Mark Williams",
+    "ekipa": "CHO",
+    "pozicija": "C",
+    "tekme": "44",
+    "točke": "15.3",
+    "podaje": "2.5",
+    "skoki": "10.2"
+  },
+  {
+    "ime": "Kelly Oubre Jr.",
+    "ekipa": "PHI",
+    "pozicija": "SF",
+    "tekme": "60",
+    "točke": "15.1",
+    "podaje": "1.8",
+    "skoki": "6.1"
+  },
+  {
+    "ime": "Chet Holmgren",
+    "ekipa": "OKC",
+    "pozicija": "C",
+    "tekme": "32",
+    "točke": "15.0",
+    "podaje": "2.0",
+    "skoki": "8.0"
+  },
+  {
+    "ime": "Kyle Kuzma",
+    "ekipa": "WAS",
+    "pozicija": "PF",
+    "tekme": "32",
+    "točke": "15.2",
+    "podaje": "2.5",
+    "skoki": "5.8"
+  },
+  {
+    "ime": "Kyle Kuzma",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "33",
+    "točke": "14.5",
+    "podaje": "2.2",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Stephon Castle",
+    "ekipa": "SAS",
+    "pozicija": "PG",
+    "tekme": "81",
+    "točke": "14.7",
+    "podaje": "4.1",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Aaron Gordon",
+    "ekipa": "DEN",
+    "pozicija": "PF",
+    "tekme": "51",
+    "točke": "14.7",
+    "podaje": "3.2",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "P.J. Washington",
+    "ekipa": "DAL",
+    "pozicija": "PF",
+    "tekme": "57",
+    "točke": "14.7",
+    "podaje": "2.3",
+    "skoki": "7.8"
+  },
+  {
+    "ime": "Quentin Grimes",
+    "ekipa": "DAL",
+    "pozicija": "SG",
+    "tekme": "47",
+    "točke": "10.2",
+    "podaje": "2.1",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Quentin Grimes",
+    "ekipa": "PHI",
+    "pozicija": "SG",
+    "tekme": "28",
+    "točke": "21.9",
+    "podaje": "4.5",
+    "skoki": "5.2"
+  },
+  {
+    "ime": "Josh Giddey",
+    "ekipa": "CHI",
+    "pozicija": "PG",
+    "tekme": "70",
+    "točke": "14.6",
+    "podaje": "7.2",
+    "skoki": "8.1"
+  },
+  {
+    "ime": "Jakob Poeltl",
+    "ekipa": "TOR",
+    "pozicija": "C",
+    "tekme": "57",
+    "točke": "14.5",
+    "podaje": "2.8",
+    "skoki": "9.6"
+  },
+  {
+    "ime": "Deandre Ayton",
+    "ekipa": "POR",
+    "pozicija": "C",
+    "tekme": "40",
+    "točke": "14.4",
+    "podaje": "1.6",
+    "skoki": "10.2"
+  },
+  {
+    "ime": "Gradey Dick",
+    "ekipa": "TOR",
+    "pozicija": "SG",
+    "tekme": "54",
+    "točke": "14.4",
+    "podaje": "1.8",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Jerami Grant",
+    "ekipa": "POR",
+    "pozicija": "PF",
+    "tekme": "47",
+    "točke": "14.4",
+    "podaje": "2.1",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "Payton Pritchard",
+    "ekipa": "BOS",
+    "pozicija": "PG",
+    "tekme": "80",
+    "točke": "14.3",
+    "podaje": "3.5",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Naz Reid",
+    "ekipa": "MIN",
+    "pozicija": "C",
+    "tekme": "80",
+    "točke": "14.2",
+    "podaje": "2.3",
+    "skoki": "6.0"
+  },
+  {
+    "ime": "Dyson Daniels",
+    "ekipa": "ATL",
+    "pozicija": "SG",
+    "tekme": "76",
+    "točke": "14.1",
+    "podaje": "4.4",
+    "skoki": "5.9"
+  },
+  {
+    "ime": "Tre Mann",
+    "ekipa": "CHO",
+    "pozicija": "PG",
+    "tekme": "13",
+    "točke": "14.1",
+    "podaje": "3.0",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Amen Thompson",
+    "ekipa": "HOU",
+    "pozicija": "SF",
+    "tekme": "69",
+    "točke": "14.1",
+    "podaje": "3.8",
+    "skoki": "8.2"
+  },
+  {
+    "ime": "Fred VanVleet",
+    "ekipa": "HOU",
+    "pozicija": "PG",
+    "tekme": "60",
+    "točke": "14.1",
+    "podaje": "5.6",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Dillon Brooks",
+    "ekipa": "HOU",
+    "pozicija": "SF",
+    "tekme": "75",
+    "točke": "14.0",
+    "podaje": "1.7",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Tolu Smith",
+    "ekipa": "DET",
+    "pozicija": "PF",
+    "tekme": "1",
+    "točke": "14.0",
+    "podaje": "0.0",
+    "skoki": "8.0"
+  },
+  {
+    "ime": "Klay Thompson",
+    "ekipa": "DAL",
+    "pozicija": "SF",
+    "tekme": "72",
+    "točke": "14.0",
+    "podaje": "2.0",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Bobby Portis",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "49",
+    "točke": "13.9",
+    "podaje": "2.1",
+    "skoki": "8.4"
+  },
+  {
+    "ime": "Tobias Harris",
+    "ekipa": "DET",
+    "pozicija": "PF",
+    "tekme": "73",
+    "točke": "13.7",
+    "podaje": "2.2",
+    "skoki": "5.9"
+  },
+  {
+    "ime": "Josh Hart",
+    "ekipa": "NYK",
+    "pozicija": "SG",
+    "tekme": "77",
+    "točke": "13.6",
+    "podaje": "5.9",
+    "skoki": "9.6"
+  },
+  {
+    "ime": "Jarrett Allen",
+    "ekipa": "CLE",
+    "pozicija": "C",
+    "tekme": "82",
+    "točke": "13.5",
+    "podaje": "1.9",
+    "skoki": "9.7"
+  },
+  {
+    "ime": "Onyeka Okongwu",
+    "ekipa": "ATL",
+    "pozicija": "C",
+    "tekme": "74",
+    "točke": "13.4",
+    "podaje": "2.3",
+    "skoki": "8.9"
+  },
+  {
+    "ime": "Russell Westbrook",
+    "ekipa": "DEN",
+    "pozicija": "PG",
+    "tekme": "75",
+    "točke": "13.3",
+    "podaje": "6.1",
+    "skoki": "4.9"
+  },
+  {
+    "ime": "Naji Marshall",
+    "ekipa": "DAL",
+    "pozicija": "SF",
+    "tekme": "69",
+    "točke": "13.2",
+    "podaje": "3.0",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "Dennis Schröder",
+    "ekipa": "3TM",
+    "pozicija": "PG",
+    "tekme": "75",
+    "točke": "13.1",
+    "podaje": "5.4",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Dennis Schröder",
+    "ekipa": "BRK",
+    "pozicija": "PG",
+    "tekme": "23",
+    "točke": "18.4",
+    "podaje": "6.6",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Dennis Schröder",
+    "ekipa": "GSW",
+    "pozicija": "SG",
+    "tekme": "24",
+    "točke": "10.6",
+    "podaje": "4.4",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Dennis Schröder",
+    "ekipa": "DET",
+    "pozicija": "PG",
+    "tekme": "28",
+    "točke": "10.8",
+    "podaje": "5.3",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Rui Hachimura",
+    "ekipa": "LAL",
+    "pozicija": "PF",
+    "tekme": "59",
+    "točke": "13.1",
+    "podaje": "1.4",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "Brook Lopez",
+    "ekipa": "MIL",
+    "pozicija": "C",
+    "tekme": "80",
+    "točke": "13.0",
+    "podaje": "1.8",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "Alex Sarr",
+    "ekipa": "WAS",
+    "pozicija": "C",
+    "tekme": "67",
+    "točke": "13.0",
+    "podaje": "2.4",
+    "skoki": "6.5"
+  },
+  {
+    "ime": "Moritz Wagner",
+    "ekipa": "ORL",
+    "pozicija": "C",
+    "tekme": "30",
+    "točke": "12.9",
+    "podaje": "1.4",
+    "skoki": "4.9"
+  },
+  {
+    "ime": "Malcolm Brogdon",
+    "ekipa": "WAS",
+    "pozicija": "PG",
+    "tekme": "24",
+    "točke": "12.7",
+    "podaje": "4.1",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Scoot Henderson",
+    "ekipa": "POR",
+    "pozicija": "PG",
+    "tekme": "66",
+    "točke": "12.7",
+    "podaje": "5.1",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Keldon Johnson",
+    "ekipa": "SAS",
+    "pozicija": "SF",
+    "tekme": "77",
+    "točke": "12.7",
+    "podaje": "1.6",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "D'Angelo Russell",
+    "ekipa": "LAL",
+    "pozicija": "PG",
+    "tekme": "29",
+    "točke": "12.4",
+    "podaje": "4.7",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "D'Angelo Russell",
+    "ekipa": "BRK",
+    "pozicija": "PG",
+    "tekme": "29",
+    "točke": "12.9",
+    "podaje": "5.6",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Zaccharie Risacher",
+    "ekipa": "ATL",
+    "pozicija": "SF",
+    "tekme": "75",
+    "točke": "12.6",
+    "podaje": "1.2",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Santi Aldama",
+    "ekipa": "MEM",
+    "pozicija": "PF",
+    "tekme": "65",
+    "točke": "12.5",
+    "podaje": "2.9",
+    "skoki": "6.4"
+  },
+  {
+    "ime": "Ty Jerome",
+    "ekipa": "CLE",
+    "pozicija": "SG",
+    "tekme": "70",
+    "točke": "12.5",
+    "podaje": "3.4",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Keegan Murray",
+    "ekipa": "SAC",
+    "pozicija": "PF",
+    "tekme": "76",
+    "točke": "12.4",
+    "podaje": "1.4",
+    "skoki": "6.7"
+  },
+  {
+    "ime": "Lonnie Walker IV",
+    "ekipa": "PHI",
+    "pozicija": "SG",
+    "tekme": "20",
+    "točke": "12.4",
+    "podaje": "2.5",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Harrison Barnes",
+    "ekipa": "SAS",
+    "pozicija": "PF",
+    "tekme": "82",
+    "točke": "12.3",
+    "podaje": "1.7",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Bilal Coulibaly",
+    "ekipa": "WAS",
+    "pozicija": "SF",
+    "tekme": "59",
+    "točke": "12.3",
+    "podaje": "3.4",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "Ayo Dosunmu",
+    "ekipa": "CHI",
+    "pozicija": "SG",
+    "tekme": "46",
+    "točke": "12.3",
+    "podaje": "4.5",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "Daniel Gafford",
+    "ekipa": "DAL",
+    "pozicija": "C",
+    "tekme": "57",
+    "točke": "12.3",
+    "podaje": "1.4",
+    "skoki": "6.8"
+  },
+  {
+    "ime": "Jaden McDaniels",
+    "ekipa": "MIN",
+    "pozicija": "PF",
+    "tekme": "82",
+    "točke": "12.2",
+    "podaje": "2.0",
+    "skoki": "5.7"
+  },
+  {
+    "ime": "Jabari Smith Jr.",
+    "ekipa": "HOU",
+    "pozicija": "PF",
+    "tekme": "57",
+    "točke": "12.2",
+    "podaje": "1.1",
+    "skoki": "7.0"
+  },
+  {
+    "ime": "Caris LeVert",
+    "ekipa": "CLE",
+    "pozicija": "SF",
+    "tekme": "38",
+    "točke": "10.2",
+    "podaje": "3.7",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Caris LeVert",
+    "ekipa": "ATL",
+    "pozicija": "SG",
+    "tekme": "26",
+    "točke": "14.9",
+    "podaje": "2.9",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Drew Timme",
+    "ekipa": "BRK",
+    "pozicija": "PF",
+    "tekme": "9",
+    "točke": "12.1",
+    "podaje": "2.2",
+    "skoki": "7.2"
+  },
+  {
+    "ime": "Tari Eason",
+    "ekipa": "HOU",
+    "pozicija": "PF",
+    "tekme": "57",
+    "točke": "12.0",
+    "podaje": "1.5",
+    "skoki": "6.4"
+  },
+  {
+    "ime": "Rudy Gobert",
+    "ekipa": "MIN",
+    "pozicija": "C",
+    "tekme": "72",
+    "točke": "12.0",
+    "podaje": "1.8",
+    "skoki": "10.9"
+  },
+  {
+    "ime": "Aaron Nesmith",
+    "ekipa": "IND",
+    "pozicija": "SF",
+    "tekme": "45",
+    "točke": "12.0",
+    "podaje": "1.2",
+    "skoki": "4.0"
+  },
+  {
+    "ime": "Aaron Wiggins",
+    "ekipa": "OKC",
+    "pozicija": "SG",
+    "tekme": "76",
+    "točke": "12.0",
+    "podaje": "1.8",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Khris Middleton",
+    "ekipa": "MIL",
+    "pozicija": "SF",
+    "tekme": "23",
+    "točke": "12.6",
+    "podaje": "4.4",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Khris Middleton",
+    "ekipa": "WAS",
+    "pozicija": "SF",
+    "tekme": "14",
+    "točke": "10.7",
+    "podaje": "3.4",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Jalen Duren",
+    "ekipa": "DET",
+    "pozicija": "C",
+    "tekme": "78",
+    "točke": "11.8",
+    "podaje": "2.7",
+    "skoki": "10.3"
+  },
+  {
+    "ime": "Donte DiVincenzo",
+    "ekipa": "MIN",
+    "pozicija": "SG",
+    "tekme": "62",
+    "točke": "11.7",
+    "podaje": "3.6",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Brandin Podziemski",
+    "ekipa": "GSW",
+    "pozicija": "SG",
+    "tekme": "64",
+    "točke": "11.7",
+    "podaje": "3.4",
+    "skoki": "5.1"
+  },
+  {
+    "ime": "Corey Kispert",
+    "ekipa": "WAS",
+    "pozicija": "SF",
+    "tekme": "61",
+    "točke": "11.6",
+    "podaje": "1.7",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Jeremy Sochan",
+    "ekipa": "SAS",
+    "pozicija": "PF",
+    "tekme": "54",
+    "točke": "11.4",
+    "podaje": "2.4",
+    "skoki": "6.5"
+  },
+  {
+    "ime": "Toumani Camara",
+    "ekipa": "POR",
+    "pozicija": "PF",
+    "tekme": "78",
+    "točke": "11.3",
+    "podaje": "2.2",
+    "skoki": "5.8"
+  },
+  {
+    "ime": "Isaiah Hartenstein",
+    "ekipa": "OKC",
+    "pozicija": "C",
+    "tekme": "57",
+    "točke": "11.2",
+    "podaje": "3.8",
+    "skoki": "10.7"
+  },
+  {
+    "ime": "Buddy Hield",
+    "ekipa": "GSW",
+    "pozicija": "SG",
+    "tekme": "82",
+    "točke": "11.1",
+    "podaje": "1.6",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Jrue Holiday",
+    "ekipa": "BOS",
+    "pozicija": "PG",
+    "tekme": "62",
+    "točke": "11.1",
+    "podaje": "3.9",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Walker Kessler",
+    "ekipa": "UTA",
+    "pozicija": "C",
+    "tekme": "58",
+    "točke": "11.1",
+    "podaje": "1.7",
+    "skoki": "12.2"
+  },
+  {
+    "ime": "Gary Trent Jr.",
+    "ekipa": "MIL",
+    "pozicija": "SG",
+    "tekme": "74",
+    "točke": "11.1",
+    "podaje": "1.2",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Spencer Dinwiddie",
+    "ekipa": "DAL",
+    "pozicija": "PG",
+    "tekme": "79",
+    "točke": "11.0",
+    "podaje": "4.4",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Tim Hardaway Jr.",
+    "ekipa": "DET",
+    "pozicija": "SG",
+    "tekme": "77",
+    "točke": "11.0",
+    "podaje": "1.6",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Duncan Robinson",
+    "ekipa": "MIA",
+    "pozicija": "SF",
+    "tekme": "74",
+    "točke": "11.0",
+    "podaje": "2.4",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Guerschon Yabusele",
+    "ekipa": "PHI",
+    "pozicija": "C",
+    "tekme": "70",
+    "točke": "11.0",
+    "podaje": "2.1",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Brice Sensabaugh",
+    "ekipa": "UTA",
+    "pozicija": "SF",
+    "tekme": "71",
+    "točke": "10.9",
+    "podaje": "1.5",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Bogdan Bogdanović",
+    "ekipa": "ATL",
+    "pozicija": "SG",
+    "tekme": "24",
+    "točke": "10.0",
+    "podaje": "2.0",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Bogdan Bogdanović",
+    "ekipa": "LAC",
+    "pozicija": "SG",
+    "tekme": "30",
+    "točke": "11.4",
+    "podaje": "3.2",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Jordan Hawkins",
+    "ekipa": "NOP",
+    "pozicija": "SG",
+    "tekme": "56",
+    "točke": "10.8",
+    "podaje": "1.2",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Brandon Boston Jr.",
+    "ekipa": "NOP",
+    "pozicija": "SG",
+    "tekme": "42",
+    "točke": "10.7",
+    "podaje": "2.2",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Nikola Jović",
+    "ekipa": "MIA",
+    "pozicija": "PF",
+    "tekme": "46",
+    "točke": "10.7",
+    "podaje": "2.8",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Grayson Allen",
+    "ekipa": "PHO",
+    "pozicija": "SG",
+    "tekme": "64",
+    "točke": "10.6",
+    "podaje": "2.1",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Keon Johnson",
+    "ekipa": "BRK",
+    "pozicija": "SG",
+    "tekme": "79",
+    "točke": "10.6",
+    "podaje": "2.2",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Terry Rozier",
+    "ekipa": "MIA",
+    "pozicija": "PG",
+    "tekme": "64",
+    "točke": "10.6",
+    "podaje": "2.6",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Obi Toppin",
+    "ekipa": "IND",
+    "pozicija": "PF",
+    "tekme": "79",
+    "točke": "10.5",
+    "podaje": "1.6",
+    "skoki": "4.0"
+  },
+  {
+    "ime": "Jonas Valančiūnas",
+    "ekipa": "WAS",
+    "pozicija": "C",
+    "tekme": "49",
+    "točke": "11.5",
+    "podaje": "2.2",
+    "skoki": "8.2"
+  },
+  {
+    "ime": "Jonas Valančiūnas",
+    "ekipa": "SAC",
+    "pozicija": "C",
+    "tekme": "32",
+    "točke": "8.7",
+    "podaje": "1.8",
+    "skoki": "7.0"
+  },
+  {
+    "ime": "Ochai Agbaji",
+    "ekipa": "TOR",
+    "pozicija": "SG",
+    "tekme": "64",
+    "točke": "10.4",
+    "podaje": "1.5",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Jaylen Wells",
+    "ekipa": "MEM",
+    "pozicija": "SG",
+    "tekme": "79",
+    "točke": "10.4",
+    "podaje": "1.7",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Grant Williams",
+    "ekipa": "CHO",
+    "pozicija": "PF",
+    "tekme": "16",
+    "točke": "10.4",
+    "podaje": "2.3",
+    "skoki": "5.1"
+  },
+  {
+    "ime": "Kevin Porter Jr.",
+    "ekipa": "LAC",
+    "pozicija": "SG",
+    "tekme": "45",
+    "točke": "9.3",
+    "podaje": "3.2",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Kevin Porter Jr.",
+    "ekipa": "MIL",
+    "pozicija": "SG",
+    "tekme": "30",
+    "točke": "11.7",
+    "podaje": "3.7",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Jose Alvarado",
+    "ekipa": "NOP",
+    "pozicija": "PG",
+    "tekme": "56",
+    "točke": "10.3",
+    "podaje": "4.6",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Nic Claxton",
+    "ekipa": "BRK",
+    "pozicija": "C",
+    "tekme": "70",
+    "točke": "10.3",
+    "podaje": "2.2",
+    "skoki": "7.4"
+  },
+  {
+    "ime": "Herbert Jones",
+    "ekipa": "NOP",
+    "pozicija": "SF",
+    "tekme": "20",
+    "točke": "10.3",
+    "podaje": "3.3",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "De'Anthony Melton",
+    "ekipa": "GSW",
+    "pozicija": "SG",
+    "tekme": "6",
+    "točke": "10.3",
+    "podaje": "2.8",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Isaiah Joe",
+    "ekipa": "OKC",
+    "pozicija": "SG",
+    "tekme": "74",
+    "točke": "10.2",
+    "podaje": "1.6",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Tyus Jones",
+    "ekipa": "PHO",
+    "pozicija": "PG",
+    "tekme": "81",
+    "točke": "10.2",
+    "podaje": "5.3",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Trendon Watford",
+    "ekipa": "BRK",
+    "pozicija": "PF",
+    "tekme": "44",
+    "točke": "10.2",
+    "podaje": "2.6",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Keion Brooks Jr.",
+    "ekipa": "NOP",
+    "pozicija": "SF",
+    "tekme": "14",
+    "točke": "10.1",
+    "podaje": "0.9",
+    "skoki": "4.1"
+  },
+  {
+    "ime": "Luguentz Dort",
+    "ekipa": "OKC",
+    "pozicija": "SF",
+    "tekme": "71",
+    "točke": "10.1",
+    "podaje": "1.6",
+    "skoki": "4.1"
+  },
+  {
+    "ime": "Justin Edwards",
+    "ekipa": "PHI",
+    "pozicija": "SF",
+    "tekme": "44",
+    "točke": "10.1",
+    "podaje": "1.6",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Derrick Jones Jr.",
+    "ekipa": "LAC",
+    "pozicija": "SF",
+    "tekme": "77",
+    "točke": "10.1",
+    "podaje": "0.8",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Ausar Thompson",
+    "ekipa": "DET",
+    "pozicija": "SF",
+    "tekme": "59",
+    "točke": "10.1",
+    "podaje": "2.3",
+    "skoki": "5.1"
+  },
+  {
+    "ime": "Chris Boucher",
+    "ekipa": "TOR",
+    "pozicija": "PF",
+    "tekme": "50",
+    "točke": "10.0",
+    "podaje": "0.7",
+    "skoki": "4.5"
+  },
+  {
+    "ime": "Andrew Nembhard",
+    "ekipa": "IND",
+    "pozicija": "SG",
+    "tekme": "65",
+    "točke": "10.0",
+    "podaje": "5.0",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Ziaire Williams",
+    "ekipa": "BRK",
+    "pozicija": "SF",
+    "tekme": "63",
+    "točke": "10.0",
+    "podaje": "1.3",
+    "skoki": "4.6"
+  },
+  {
+    "ime": "Kevin Huerter",
+    "ekipa": "SAC",
+    "pozicija": "SG",
+    "tekme": "43",
+    "točke": "7.9",
+    "podaje": "1.7",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Kevin Huerter",
+    "ekipa": "CHI",
+    "pozicija": "SG",
+    "tekme": "26",
+    "točke": "13.2",
+    "podaje": "3.2",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Georges Niang",
+    "ekipa": "CLE",
+    "pozicija": "PF",
+    "tekme": "51",
+    "točke": "8.7",
+    "podaje": "1.3",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Georges Niang",
+    "ekipa": "ATL",
+    "pozicija": "PF",
+    "tekme": "28",
+    "točke": "12.1",
+    "podaje": "1.6",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Julian Champagnie",
+    "ekipa": "SAS",
+    "pozicija": "SF",
+    "tekme": "82",
+    "točke": "9.9",
+    "podaje": "1.4",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Scotty Pippen Jr.",
+    "ekipa": "MEM",
+    "pozicija": "PG",
+    "tekme": "79",
+    "točke": "9.9",
+    "podaje": "4.4",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Nick Smith Jr.",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "60",
+    "točke": "9.9",
+    "podaje": "2.4",
+    "skoki": "2.1"
+  },
+  {
+    "ime": "Bub Carrington",
+    "ekipa": "WAS",
+    "pozicija": "PG",
+    "tekme": "82",
+    "točke": "9.8",
+    "podaje": "4.4",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Moses Moody",
+    "ekipa": "GSW",
+    "pozicija": "SG",
+    "tekme": "74",
+    "točke": "9.8",
+    "podaje": "1.3",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Amir Coffey",
+    "ekipa": "LAC",
+    "pozicija": "SG",
+    "tekme": "72",
+    "točke": "9.7",
+    "podaje": "1.1",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Max Christie",
+    "ekipa": "LAL",
+    "pozicija": "SG",
+    "tekme": "46",
+    "točke": "8.5",
+    "podaje": "1.4",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Max Christie",
+    "ekipa": "DAL",
+    "pozicija": "SG",
+    "tekme": "32",
+    "točke": "11.2",
+    "podaje": "2.5",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Kyle Filipowski",
+    "ekipa": "UTA",
+    "pozicija": "C",
+    "tekme": "72",
+    "točke": "9.6",
+    "podaje": "1.9",
+    "skoki": "6.1"
+  },
+  {
+    "ime": "Tosan Evbuomwan",
+    "ekipa": "BRK",
+    "pozicija": "SF",
+    "tekme": "28",
+    "točke": "9.5",
+    "podaje": "2.0",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Miles McBride",
+    "ekipa": "NYK",
+    "pozicija": "PG",
+    "tekme": "64",
+    "točke": "9.5",
+    "podaje": "2.9",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Jalen Wilson",
+    "ekipa": "BRK",
+    "pozicija": "PF",
+    "tekme": "79",
+    "točke": "9.5",
+    "podaje": "1.8",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Nickeil Alexander-Walker",
+    "ekipa": "MIN",
+    "pozicija": "SG",
+    "tekme": "82",
+    "točke": "9.4",
+    "podaje": "2.7",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Cole Anthony",
+    "ekipa": "ORL",
+    "pozicija": "PG",
+    "tekme": "67",
+    "točke": "9.4",
+    "podaje": "2.9",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Anthony Black",
+    "ekipa": "ORL",
+    "pozicija": "PG",
+    "tekme": "78",
+    "točke": "9.4",
+    "podaje": "3.1",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Max Strus",
+    "ekipa": "CLE",
+    "pozicija": "SF",
+    "tekme": "50",
+    "točke": "9.4",
+    "podaje": "3.2",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Tristan Vukcevic",
+    "ekipa": "WAS",
+    "pozicija": "C",
+    "tekme": "35",
+    "točke": "9.4",
+    "podaje": "1.1",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Cam Whitmore",
+    "ekipa": "HOU",
+    "pozicija": "SF",
+    "tekme": "51",
+    "točke": "9.4",
+    "podaje": "1.0",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Nick Richards",
+    "ekipa": "CHO",
+    "pozicija": "C",
+    "tekme": "21",
+    "točke": "8.9",
+    "podaje": "1.3",
+    "skoki": "7.5"
+  },
+  {
+    "ime": "Nick Richards",
+    "ekipa": "PHO",
+    "pozicija": "C",
+    "tekme": "36",
+    "točke": "9.5",
+    "podaje": "0.6",
+    "skoki": "8.6"
+  },
+  {
+    "ime": "Kel'el Ware",
+    "ekipa": "MIA",
+    "pozicija": "C",
+    "tekme": "64",
+    "točke": "9.3",
+    "podaje": "0.9",
+    "skoki": "7.4"
+  },
+  {
+    "ime": "Zach Edey",
+    "ekipa": "MEM",
+    "pozicija": "C",
+    "tekme": "66",
+    "točke": "9.2",
+    "podaje": "1.0",
+    "skoki": "8.3"
+  },
+  {
+    "ime": "Wendell Carter Jr.",
+    "ekipa": "ORL",
+    "pozicija": "C",
+    "tekme": "68",
+    "točke": "9.1",
+    "podaje": "2.0",
+    "skoki": "7.2"
+  },
+  {
+    "ime": "Noah Clowney",
+    "ekipa": "BRK",
+    "pozicija": "PF",
+    "tekme": "46",
+    "točke": "9.1",
+    "podaje": "0.9",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Dalton Knecht",
+    "ekipa": "LAL",
+    "pozicija": "SF",
+    "tekme": "78",
+    "točke": "9.1",
+    "podaje": "0.8",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "A.J. Lawson",
+    "ekipa": "TOR",
+    "pozicija": "SG",
+    "tekme": "26",
+    "točke": "9.1",
+    "podaje": "1.2",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "T.J. McConnell",
+    "ekipa": "IND",
+    "pozicija": "PG",
+    "tekme": "79",
+    "točke": "9.1",
+    "podaje": "4.4",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Yves Missi",
+    "ekipa": "NOP",
+    "pozicija": "C",
+    "tekme": "73",
+    "točke": "9.1",
+    "podaje": "1.4",
+    "skoki": "8.2"
+  },
+  {
+    "ime": "Royce O'Neale",
+    "ekipa": "PHO",
+    "pozicija": "SF",
+    "tekme": "75",
+    "točke": "9.1",
+    "podaje": "2.2",
+    "skoki": "4.7"
+  },
+  {
+    "ime": "Jared Butler",
+    "ekipa": "WAS",
+    "pozicija": "PG",
+    "tekme": "32",
+    "točke": "6.9",
+    "podaje": "2.6",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Jared Butler",
+    "ekipa": "PHI",
+    "pozicija": "SG",
+    "tekme": "28",
+    "točke": "11.5",
+    "podaje": "4.9",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Marcus Smart",
+    "ekipa": "MEM",
+    "pozicija": "PG",
+    "tekme": "19",
+    "točke": "8.7",
+    "podaje": "3.7",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Marcus Smart",
+    "ekipa": "WAS",
+    "pozicija": "PG",
+    "tekme": "15",
+    "točke": "9.3",
+    "podaje": "2.5",
+    "skoki": "1.9"
+  },
+  {
+    "ime": "Draymond Green",
+    "ekipa": "GSW",
+    "pozicija": "PF",
+    "tekme": "68",
+    "točke": "9.0",
+    "podaje": "5.6",
+    "skoki": "6.1"
+  },
+  {
+    "ime": "Killian Hayes",
+    "ekipa": "BRK",
+    "pozicija": "PG",
+    "tekme": "6",
+    "točke": "9.0",
+    "podaje": "5.2",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Al Horford",
+    "ekipa": "BOS",
+    "pozicija": "C",
+    "tekme": "60",
+    "točke": "9.0",
+    "podaje": "2.1",
+    "skoki": "6.2"
+  },
+  {
+    "ime": "Julian Strawther",
+    "ekipa": "DEN",
+    "pozicija": "SG",
+    "tekme": "65",
+    "točke": "9.0",
+    "podaje": "1.3",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Patrick Williams",
+    "ekipa": "CHI",
+    "pozicija": "PF",
+    "tekme": "63",
+    "točke": "9.0",
+    "podaje": "2.0",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Jusuf Nurkić",
+    "ekipa": "PHO",
+    "pozicija": "C",
+    "tekme": "25",
+    "točke": "8.6",
+    "podaje": "1.9",
+    "skoki": "9.2"
+  },
+  {
+    "ime": "Jusuf Nurkić",
+    "ekipa": "CHO",
+    "pozicija": "C",
+    "tekme": "26",
+    "točke": "9.2",
+    "podaje": "2.6",
+    "skoki": "6.5"
+  },
+  {
+    "ime": "Clint Capela",
+    "ekipa": "ATL",
+    "pozicija": "C",
+    "tekme": "55",
+    "točke": "8.9",
+    "podaje": "1.1",
+    "skoki": "8.5"
+  },
+  {
+    "ime": "Johnny Juzang",
+    "ekipa": "UTA",
+    "pozicija": "SG",
+    "tekme": "64",
+    "točke": "8.9",
+    "podaje": "1.1",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Luke Kennard",
+    "ekipa": "MEM",
+    "pozicija": "SG",
+    "tekme": "65",
+    "točke": "8.9",
+    "podaje": "3.3",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Justin Champagnie",
+    "ekipa": "WAS",
+    "pozicija": "SF",
+    "tekme": "62",
+    "točke": "8.8",
+    "podaje": "1.0",
+    "skoki": "5.7"
+  },
+  {
+    "ime": "Svi Mykhailiuk",
+    "ekipa": "UTA",
+    "pozicija": "SF",
+    "tekme": "38",
+    "točke": "8.8",
+    "podaje": "2.0",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Chris Paul",
+    "ekipa": "SAS",
+    "pozicija": "PG",
+    "tekme": "82",
+    "točke": "8.8",
+    "podaje": "7.4",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Kelly Olynyk",
+    "ekipa": "TOR",
+    "pozicija": "C",
+    "tekme": "24",
+    "točke": "7.1",
+    "podaje": "2.3",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Kelly Olynyk",
+    "ekipa": "NOP",
+    "pozicija": "C",
+    "tekme": "20",
+    "točke": "10.7",
+    "podaje": "3.6",
+    "skoki": "5.9"
+  },
+  {
+    "ime": "Dorian Finney-Smith",
+    "ekipa": "BRK",
+    "pozicija": "PF",
+    "tekme": "20",
+    "točke": "10.4",
+    "podaje": "1.6",
+    "skoki": "4.6"
+  },
+  {
+    "ime": "Dorian Finney-Smith",
+    "ekipa": "LAL",
+    "pozicija": "PF",
+    "tekme": "43",
+    "točke": "7.9",
+    "podaje": "1.4",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Oshae Brissett",
+    "ekipa": "PHI",
+    "pozicija": "SF",
+    "tekme": "6",
+    "točke": "8.7",
+    "podaje": "0.7",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Kentavious Caldwell-Pope",
+    "ekipa": "ORL",
+    "pozicija": "SG",
+    "tekme": "77",
+    "točke": "8.7",
+    "podaje": "1.8",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Isaiah Collier",
+    "ekipa": "UTA",
+    "pozicija": "PG",
+    "tekme": "71",
+    "točke": "8.7",
+    "podaje": "6.3",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Dante Exum",
+    "ekipa": "DAL",
+    "pozicija": "PG",
+    "tekme": "20",
+    "točke": "8.7",
+    "podaje": "2.8",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Kyshawn George",
+    "ekipa": "WAS",
+    "pozicija": "SG",
+    "tekme": "68",
+    "točke": "8.7",
+    "podaje": "2.5",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Jaden Hardy",
+    "ekipa": "DAL",
+    "pozicija": "SG",
+    "tekme": "57",
+    "točke": "8.7",
+    "podaje": "1.4",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Dereck Lively II",
+    "ekipa": "DAL",
+    "pozicija": "C",
+    "tekme": "36",
+    "točke": "8.7",
+    "podaje": "2.4",
+    "skoki": "7.5"
+  },
+  {
+    "ime": "Tyrese Martin",
+    "ekipa": "BRK",
+    "pozicija": "SG",
+    "tekme": "60",
+    "točke": "8.7",
+    "podaje": "2.0",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Matas Buzelis",
+    "ekipa": "CHI",
+    "pozicija": "SF",
+    "tekme": "80",
+    "točke": "8.6",
+    "podaje": "1.0",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "Jaime Jaquez Jr.",
+    "ekipa": "MIA",
+    "pozicija": "SF",
+    "tekme": "66",
+    "točke": "8.6",
+    "podaje": "2.5",
+    "skoki": "4.4"
+  },
+  {
+    "ime": "Ja'Kobe Walter",
+    "ekipa": "TOR",
+    "pozicija": "SG",
+    "tekme": "52",
+    "točke": "8.6",
+    "podaje": "1.6",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Sam Hauser",
+    "ekipa": "BOS",
+    "pozicija": "PF",
+    "tekme": "71",
+    "točke": "8.5",
+    "podaje": "0.9",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Larry Nance Jr.",
+    "ekipa": "ATL",
+    "pozicija": "PF",
+    "tekme": "24",
+    "točke": "8.5",
+    "podaje": "1.6",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Jared Rhoden",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "4",
+    "točke": "1.0",
+    "podaje": "0.5",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Jared Rhoden",
+    "ekipa": "TOR",
+    "pozicija": "SG",
+    "tekme": "10",
+    "točke": "11.4",
+    "podaje": "1.4",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Jaylen Nowell",
+    "ekipa": "NOP",
+    "pozicija": "SG",
+    "tekme": "8",
+    "točke": "8.4",
+    "podaje": "2.3",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Cason Wallace",
+    "ekipa": "OKC",
+    "pozicija": "SG",
+    "tekme": "68",
+    "točke": "8.4",
+    "podaje": "2.5",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Bruce Brown",
+    "ekipa": "TOR",
+    "pozicija": "PG",
+    "tekme": "18",
+    "točke": "8.4",
+    "podaje": "1.6",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Bruce Brown",
+    "ekipa": "NOP",
+    "pozicija": "PG",
+    "tekme": "23",
+    "točke": "8.2",
+    "podaje": "2.4",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Dalano Banton",
+    "ekipa": "POR",
+    "pozicija": "PG",
+    "tekme": "67",
+    "točke": "8.3",
+    "podaje": "2.4",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Brandon Clarke",
+    "ekipa": "MEM",
+    "pozicija": "PF",
+    "tekme": "64",
+    "točke": "8.3",
+    "podaje": "1.0",
+    "skoki": "5.1"
+  },
+  {
+    "ime": "Keon Ellis",
+    "ekipa": "SAC",
+    "pozicija": "SG",
+    "tekme": "80",
+    "točke": "8.3",
+    "podaje": "1.5",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Brandon Williams",
+    "ekipa": "DAL",
+    "pozicija": "PG",
+    "tekme": "33",
+    "točke": "8.3",
+    "podaje": "2.3",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Mike Conley",
+    "ekipa": "MIN",
+    "pozicija": "PG",
+    "tekme": "71",
+    "točke": "8.2",
+    "podaje": "4.5",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Taurean Prince",
+    "ekipa": "MIL",
+    "pozicija": "SF",
+    "tekme": "80",
+    "točke": "8.2",
+    "podaje": "1.9",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Jalen Smith",
+    "ekipa": "CHI",
+    "pozicija": "C",
+    "tekme": "64",
+    "točke": "8.2",
+    "podaje": "1.0",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Quinten Post",
+    "ekipa": "GSW",
+    "pozicija": "PF",
+    "tekme": "42",
+    "točke": "8.1",
+    "podaje": "1.3",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "Peyton Watson",
+    "ekipa": "DEN",
+    "pozicija": "SF",
+    "tekme": "68",
+    "točke": "8.1",
+    "podaje": "1.4",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Davion Mitchell",
+    "ekipa": "TOR",
+    "pozicija": "PG",
+    "tekme": "44",
+    "točke": "6.3",
+    "podaje": "4.6",
+    "skoki": "1.9"
+  },
+  {
+    "ime": "Davion Mitchell",
+    "ekipa": "MIA",
+    "pozicija": "PG",
+    "tekme": "30",
+    "točke": "10.3",
+    "podaje": "5.3",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Caleb Martin",
+    "ekipa": "PHI",
+    "pozicija": "SF",
+    "tekme": "31",
+    "točke": "9.1",
+    "podaje": "2.2",
+    "skoki": "4.4"
+  },
+  {
+    "ime": "Caleb Martin",
+    "ekipa": "DAL",
+    "pozicija": "SF",
+    "tekme": "14",
+    "točke": "5.4",
+    "podaje": "1.9",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Tyson Etienne",
+    "ekipa": "BRK",
+    "pozicija": "PG",
+    "tekme": "7",
+    "točke": "7.9",
+    "podaje": "1.7",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Day'Ron Sharpe",
+    "ekipa": "BRK",
+    "pozicija": "C",
+    "tekme": "50",
+    "točke": "7.9",
+    "podaje": "1.8",
+    "skoki": "6.6"
+  },
+  {
+    "ime": "KJ Simpson",
+    "ekipa": "CHO",
+    "pozicija": "PG",
+    "tekme": "36",
+    "točke": "7.8",
+    "podaje": "3.1",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Terance Mann",
+    "ekipa": "LAC",
+    "pozicija": "SG",
+    "tekme": "37",
+    "točke": "6.0",
+    "podaje": "1.6",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Terance Mann",
+    "ekipa": "ATL",
+    "pozicija": "SG",
+    "tekme": "30",
+    "točke": "9.8",
+    "podaje": "2.1",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Karlo Matković",
+    "ekipa": "NOP",
+    "pozicija": "PF",
+    "tekme": "42",
+    "točke": "7.7",
+    "podaje": "1.1",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "AJ Johnson",
+    "ekipa": "MIL",
+    "pozicija": "SG",
+    "tekme": "7",
+    "točke": "2.9",
+    "podaje": "1.0",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "AJ Johnson",
+    "ekipa": "WAS",
+    "pozicija": "SG",
+    "tekme": "22",
+    "točke": "9.1",
+    "podaje": "3.1",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Lonzo Ball",
+    "ekipa": "CHI",
+    "pozicija": "PG",
+    "tekme": "35",
+    "točke": "7.6",
+    "podaje": "3.3",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Oscar Tshiebwe",
+    "ekipa": "UTA",
+    "pozicija": "C",
+    "tekme": "14",
+    "točke": "7.6",
+    "podaje": "0.6",
+    "skoki": "8.7"
+  },
+  {
+    "ime": "Garrison Mathews",
+    "ekipa": "ATL",
+    "pozicija": "SG",
+    "tekme": "47",
+    "točke": "7.5",
+    "podaje": "1.3",
+    "skoki": "1.9"
+  },
+  {
+    "ime": "Matisse Thybulle",
+    "ekipa": "POR",
+    "pozicija": "SG",
+    "tekme": "15",
+    "točke": "7.5",
+    "podaje": "1.9",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "A.J. Green",
+    "ekipa": "MIL",
+    "pozicija": "SG",
+    "tekme": "73",
+    "točke": "7.4",
+    "podaje": "1.5",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Josh Green",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "68",
+    "točke": "7.4",
+    "podaje": "1.6",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Richaun Holmes",
+    "ekipa": "WAS",
+    "pozicija": "PF",
+    "tekme": "31",
+    "točke": "7.4",
+    "podaje": "1.4",
+    "skoki": "5.7"
+  },
+  {
+    "ime": "Damion Baugh",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "15",
+    "točke": "7.3",
+    "podaje": "3.7",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Alec Burks",
+    "ekipa": "MIA",
+    "pozicija": "SG",
+    "tekme": "49",
+    "točke": "7.3",
+    "podaje": "1.1",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Ricky Council IV",
+    "ekipa": "PHI",
+    "pozicija": "SF",
+    "tekme": "73",
+    "točke": "7.3",
+    "podaje": "1.3",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Andre Drummond",
+    "ekipa": "PHI",
+    "pozicija": "C",
+    "tekme": "40",
+    "točke": "7.3",
+    "podaje": "0.9",
+    "skoki": "7.8"
+  },
+  {
+    "ime": "Tre Jones",
+    "ekipa": "SAS",
+    "pozicija": "PG",
+    "tekme": "28",
+    "točke": "4.4",
+    "podaje": "3.7",
+    "skoki": "2.1"
+  },
+  {
+    "ime": "Tre Jones",
+    "ekipa": "CHI",
+    "pozicija": "PG",
+    "tekme": "18",
+    "točke": "11.5",
+    "podaje": "4.9",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Goga Bitadze",
+    "ekipa": "ORL",
+    "pozicija": "C",
+    "tekme": "70",
+    "točke": "7.2",
+    "podaje": "2.0",
+    "skoki": "6.6"
+  },
+  {
+    "ime": "Tristan Da Silva",
+    "ekipa": "ORL",
+    "pozicija": "SF",
+    "tekme": "74",
+    "točke": "7.2",
+    "podaje": "1.5",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "GG Jackson II",
+    "ekipa": "MEM",
+    "pozicija": "PF",
+    "tekme": "29",
+    "točke": "7.2",
+    "podaje": "1.0",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Vit Krejci",
+    "ekipa": "ATL",
+    "pozicija": "PG",
+    "tekme": "57",
+    "točke": "7.2",
+    "podaje": "2.6",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Sam Merrill",
+    "ekipa": "CLE",
+    "pozicija": "SG",
+    "tekme": "71",
+    "točke": "7.2",
+    "podaje": "1.5",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Daeqwon Plowden",
+    "ekipa": "ATL",
+    "pozicija": "SG",
+    "tekme": "6",
+    "točke": "7.2",
+    "podaje": "0.3",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Nae'Qwan Tomlin",
+    "ekipa": "CLE",
+    "pozicija": "PF",
+    "tekme": "5",
+    "točke": "7.2",
+    "podaje": "0.4",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Josh Okogie",
+    "ekipa": "PHO",
+    "pozicija": "SG",
+    "tekme": "25",
+    "točke": "6.0",
+    "podaje": "0.6",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Josh Okogie",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "15",
+    "točke": "8.9",
+    "podaje": "1.3",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Jalen Hood-Schifino",
+    "ekipa": "LAL",
+    "pozicija": "SG",
+    "tekme": "2",
+    "točke": "2.0",
+    "podaje": "0.5",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Jalen Hood-Schifino",
+    "ekipa": "PHI",
+    "pozicija": "SG",
+    "tekme": "13",
+    "točke": "7.8",
+    "podaje": "2.8",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Jamison Battle",
+    "ekipa": "TOR",
+    "pozicija": "SF",
+    "tekme": "59",
+    "točke": "7.1",
+    "podaje": "0.9",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Alex Caruso",
+    "ekipa": "OKC",
+    "pozicija": "SG",
+    "tekme": "54",
+    "točke": "7.1",
+    "podaje": "2.5",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Jamal Shead",
+    "ekipa": "TOR",
+    "pozicija": "PG",
+    "tekme": "75",
+    "točke": "7.1",
+    "podaje": "4.2",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Jeff Dowtin Jr.",
+    "ekipa": "PHI",
+    "pozicija": "PG",
+    "tekme": "41",
+    "točke": "7.0",
+    "podaje": "1.9",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Marcus Garrett",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "4",
+    "točke": "7.0",
+    "podaje": "3.3",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Isaiah Jackson",
+    "ekipa": "IND",
+    "pozicija": "C",
+    "tekme": "5",
+    "točke": "7.0",
+    "podaje": "1.0",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Jaylen Sims",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "6",
+    "točke": "7.0",
+    "podaje": "2.0",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Orlando Robinson",
+    "ekipa": "SAC",
+    "pozicija": "C",
+    "tekme": "9",
+    "točke": "2.1",
+    "podaje": "1.0",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Orlando Robinson",
+    "ekipa": "TOR",
+    "pozicija": "C",
+    "tekme": "35",
+    "točke": "8.1",
+    "podaje": "1.9",
+    "skoki": "5.9"
+  },
+  {
+    "ime": "Jake LaRavia",
+    "ekipa": "MEM",
+    "pozicija": "PF",
+    "tekme": "47",
+    "točke": "7.3",
+    "podaje": "2.8",
+    "skoki": "4.4"
+  },
+  {
+    "ime": "Jake LaRavia",
+    "ekipa": "SAC",
+    "pozicija": "PF",
+    "tekme": "19",
+    "točke": "6.1",
+    "podaje": "1.3",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Ryan Dunn",
+    "ekipa": "PHO",
+    "pozicija": "SF",
+    "tekme": "74",
+    "točke": "6.9",
+    "podaje": "0.8",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Jay Huff",
+    "ekipa": "MEM",
+    "pozicija": "C",
+    "tekme": "64",
+    "točke": "6.9",
+    "podaje": "0.6",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Cameron Payne",
+    "ekipa": "NYK",
+    "pozicija": "PG",
+    "tekme": "72",
+    "točke": "6.9",
+    "podaje": "2.8",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Antonio Reeves",
+    "ekipa": "NOP",
+    "pozicija": "SG",
+    "tekme": "44",
+    "točke": "6.9",
+    "podaje": "0.9",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Cody Martin",
+    "ekipa": "CHO",
+    "pozicija": "SF",
+    "tekme": "39",
+    "točke": "7.8",
+    "podaje": "2.3",
+    "skoki": "4.5"
+  },
+  {
+    "ime": "Cody Martin",
+    "ekipa": "PHO",
+    "pozicija": "SF",
+    "tekme": "14",
+    "točke": "3.7",
+    "podaje": "1.1",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Bol Bol",
+    "ekipa": "PHO",
+    "pozicija": "PF",
+    "tekme": "36",
+    "točke": "6.8",
+    "podaje": "0.6",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Eric Gordon",
+    "ekipa": "PHI",
+    "pozicija": "SG",
+    "tekme": "39",
+    "točke": "6.8",
+    "podaje": "1.7",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Jaxson Hayes",
+    "ekipa": "LAL",
+    "pozicija": "C",
+    "tekme": "56",
+    "točke": "6.8",
+    "podaje": "1.0",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "Marcus Bagley",
+    "ekipa": "PHI",
+    "pozicija": "SF",
+    "tekme": "10",
+    "točke": "6.7",
+    "podaje": "1.0",
+    "skoki": "7.0"
+  },
+  {
+    "ime": "DaQuan Jeffries",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "47",
+    "točke": "6.7",
+    "podaje": "1.1",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Lester Quiñones",
+    "ekipa": "PHI",
+    "pozicija": "SG",
+    "tekme": "4",
+    "točke": "2.3",
+    "podaje": "0.3",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Lester Quiñones",
+    "ekipa": "NOP",
+    "pozicija": "SG",
+    "tekme": "9",
+    "točke": "8.6",
+    "podaje": "2.6",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Vasilije Micić",
+    "ekipa": "CHO",
+    "pozicija": "PG",
+    "tekme": "36",
+    "točke": "7.5",
+    "podaje": "3.5",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Vasilije Micić",
+    "ekipa": "PHO",
+    "pozicija": "PG",
+    "tekme": "5",
+    "točke": "0.0",
+    "podaje": "0.2",
+    "skoki": "0.4"
+  },
+  {
+    "ime": "Precious Achiuwa",
+    "ekipa": "NYK",
+    "pozicija": "C",
+    "tekme": "57",
+    "točke": "6.6",
+    "podaje": "1.0",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Trayce Jackson-Davis",
+    "ekipa": "GSW",
+    "pozicija": "C",
+    "tekme": "62",
+    "točke": "6.6",
+    "podaje": "1.7",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "Marcus Sasser",
+    "ekipa": "DET",
+    "pozicija": "PG",
+    "tekme": "57",
+    "točke": "6.6",
+    "podaje": "2.3",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Vince Williams Jr.",
+    "ekipa": "MEM",
+    "pozicija": "SG",
+    "tekme": "27",
+    "točke": "6.6",
+    "podaje": "2.0",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Thomas Bryant",
+    "ekipa": "MIA",
+    "pozicija": "C",
+    "tekme": "10",
+    "točke": "4.1",
+    "podaje": "0.4",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Thomas Bryant",
+    "ekipa": "IND",
+    "pozicija": "C",
+    "tekme": "56",
+    "točke": "6.9",
+    "podaje": "0.9",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Donovan Clingan",
+    "ekipa": "POR",
+    "pozicija": "C",
+    "tekme": "67",
+    "točke": "6.5",
+    "podaje": "1.1",
+    "skoki": "7.9"
+  },
+  {
+    "ime": "Seth Curry",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "68",
+    "točke": "6.5",
+    "podaje": "0.9",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Haywood Highsmith",
+    "ekipa": "MIA",
+    "pozicija": "SF",
+    "tekme": "74",
+    "točke": "6.5",
+    "podaje": "1.5",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Talen Horton-Tucker",
+    "ekipa": "CHI",
+    "pozicija": "SG",
+    "tekme": "58",
+    "točke": "6.5",
+    "podaje": "1.4",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Trey Lyles",
+    "ekipa": "SAC",
+    "pozicija": "PF",
+    "tekme": "69",
+    "točke": "6.5",
+    "podaje": "1.2",
+    "skoki": "4.6"
+  },
+  {
+    "ime": "Ajay Mitchell",
+    "ekipa": "OKC",
+    "pozicija": "SG",
+    "tekme": "36",
+    "točke": "6.5",
+    "podaje": "1.8",
+    "skoki": "1.9"
+  },
+  {
+    "ime": "Gary Payton II",
+    "ekipa": "GSW",
+    "pozicija": "SG",
+    "tekme": "62",
+    "točke": "6.5",
+    "podaje": "1.3",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Zach Collins",
+    "ekipa": "SAS",
+    "pozicija": "C",
+    "tekme": "36",
+    "točke": "4.6",
+    "podaje": "1.4",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Zach Collins",
+    "ekipa": "CHI",
+    "pozicija": "PF",
+    "tekme": "28",
+    "točke": "8.6",
+    "podaje": "2.1",
+    "skoki": "6.7"
+  },
+  {
+    "ime": "Kris Dunn",
+    "ekipa": "LAC",
+    "pozicija": "PG",
+    "tekme": "74",
+    "točke": "6.4",
+    "podaje": "2.8",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Ron Holland",
+    "ekipa": "DET",
+    "pozicija": "SF",
+    "tekme": "81",
+    "točke": "6.4",
+    "podaje": "1.0",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "KJ Martin",
+    "ekipa": "PHI",
+    "pozicija": "PF",
+    "tekme": "24",
+    "točke": "6.4",
+    "podaje": "0.8",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "KJ Martin",
+    "ekipa": "UTA",
+    "pozicija": "SF",
+    "tekme": "19",
+    "točke": "6.3",
+    "podaje": "1.5",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Gabe Vincent",
+    "ekipa": "LAL",
+    "pozicija": "PG",
+    "tekme": "72",
+    "točke": "6.4",
+    "podaje": "1.4",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Sandro Mamukelashvili",
+    "ekipa": "SAS",
+    "pozicija": "PF",
+    "tekme": "61",
+    "točke": "6.3",
+    "podaje": "0.8",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Jeremiah Robinson-Earl",
+    "ekipa": "NOP",
+    "pozicija": "PF",
+    "tekme": "66",
+    "točke": "6.3",
+    "podaje": "1.3",
+    "skoki": "4.8"
+  },
+  {
+    "ime": "Kenrich Williams",
+    "ekipa": "OKC",
+    "pozicija": "PF",
+    "tekme": "69",
+    "točke": "6.3",
+    "podaje": "1.4",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "Bones Hyland",
+    "ekipa": "LAC",
+    "pozicija": "PG",
+    "tekme": "20",
+    "točke": "7.2",
+    "podaje": "1.4",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Bones Hyland",
+    "ekipa": "MIN",
+    "pozicija": "PG",
+    "tekme": "4",
+    "točke": "1.3",
+    "podaje": "1.0",
+    "skoki": "0.3"
+  },
+  {
+    "ime": "Jonathan Mogbo",
+    "ekipa": "TOR",
+    "pozicija": "PF",
+    "tekme": "63",
+    "točke": "6.2",
+    "podaje": "2.3",
+    "skoki": "4.9"
+  },
+  {
+    "ime": "Ryan Rollins",
+    "ekipa": "MIL",
+    "pozicija": "PG",
+    "tekme": "56",
+    "točke": "6.2",
+    "podaje": "1.9",
+    "skoki": "1.9"
+  },
+  {
+    "ime": "Dru Smith",
+    "ekipa": "MIA",
+    "pozicija": "SG",
+    "tekme": "14",
+    "točke": "6.2",
+    "podaje": "1.6",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Isaac Okoro",
+    "ekipa": "CLE",
+    "pozicija": "SG",
+    "tekme": "55",
+    "točke": "6.1",
+    "podaje": "1.2",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Jarace Walker",
+    "ekipa": "IND",
+    "pozicija": "PF",
+    "tekme": "75",
+    "točke": "6.1",
+    "podaje": "1.5",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "N'Faly Dante",
+    "ekipa": "HOU",
+    "pozicija": "C",
+    "tekme": "4",
+    "točke": "6.0",
+    "podaje": "0.5",
+    "skoki": "5.3"
+  },
+  {
+    "ime": "Mouhamed Gueye",
+    "ekipa": "ATL",
+    "pozicija": "PF",
+    "tekme": "33",
+    "točke": "6.0",
+    "podaje": "0.8",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Luke Kornet",
+    "ekipa": "BOS",
+    "pozicija": "C",
+    "tekme": "73",
+    "točke": "6.0",
+    "podaje": "1.6",
+    "skoki": "5.3"
+  },
+  {
+    "ime": "Isaiah Mobley",
+    "ekipa": "PHI",
+    "pozicija": "PF",
+    "tekme": "1",
+    "točke": "6.0",
+    "podaje": "5.0",
+    "skoki": "4.0"
+  },
+  {
+    "ime": "Isaiah Stewart",
+    "ekipa": "DET",
+    "pozicija": "C",
+    "tekme": "72",
+    "točke": "6.0",
+    "podaje": "1.7",
+    "skoki": "5.5"
+  },
+  {
+    "ime": "James Wiseman",
+    "ekipa": "IND",
+    "pozicija": "C",
+    "tekme": "1",
+    "točke": "6.0",
+    "podaje": "0.0",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Isaiah Wong",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "20",
+    "točke": "6.0",
+    "podaje": "1.4",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Cole Swider",
+    "ekipa": "DET",
+    "pozicija": "SF",
+    "tekme": "2",
+    "točke": "0.0",
+    "podaje": "0.5",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Cole Swider",
+    "ekipa": "TOR",
+    "pozicija": "SF",
+    "tekme": "8",
+    "točke": "7.4",
+    "podaje": "0.3",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Chuma Okeke",
+    "ekipa": "PHI",
+    "pozicija": "PF",
+    "tekme": "7",
+    "točke": "6.9",
+    "podaje": "1.9",
+    "skoki": "6.1"
+  },
+  {
+    "ime": "Chuma Okeke",
+    "ekipa": "CLE",
+    "pozicija": "PF",
+    "tekme": "2",
+    "točke": "2.5",
+    "podaje": "1.0",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Kyle Anderson",
+    "ekipa": "GSW",
+    "pozicija": "PF",
+    "tekme": "36",
+    "točke": "5.3",
+    "podaje": "2.3",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Kyle Anderson",
+    "ekipa": "MIA",
+    "pozicija": "SF",
+    "tekme": "25",
+    "točke": "6.7",
+    "podaje": "2.6",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Simone Fontecchio",
+    "ekipa": "DET",
+    "pozicija": "SF",
+    "tekme": "75",
+    "točke": "5.9",
+    "podaje": "0.9",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Collin Gillespie",
+    "ekipa": "PHO",
+    "pozicija": "PG",
+    "tekme": "33",
+    "točke": "5.9",
+    "podaje": "2.4",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Tidjane Salaün",
+    "ekipa": "CHO",
+    "pozicija": "PF",
+    "tekme": "60",
+    "točke": "5.9",
+    "podaje": "1.2",
+    "skoki": "4.7"
+  },
+  {
+    "ime": "Jaylin Williams",
+    "ekipa": "OKC",
+    "pozicija": "PF",
+    "tekme": "47",
+    "točke": "5.9",
+    "podaje": "2.6",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Moses Brown",
+    "ekipa": "IND",
+    "pozicija": "C",
+    "tekme": "9",
+    "točke": "3.2",
+    "podaje": "0.0",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Moses Brown",
+    "ekipa": "DAL",
+    "pozicija": "C",
+    "tekme": "4",
+    "točke": "11.8",
+    "podaje": "0.5",
+    "skoki": "7.8"
+  },
+  {
+    "ime": "Adem Bona",
+    "ekipa": "PHI",
+    "pozicija": "C",
+    "tekme": "58",
+    "točke": "5.8",
+    "podaje": "0.5",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Quenton Jackson",
+    "ekipa": "IND",
+    "pozicija": "PG",
+    "tekme": "28",
+    "točke": "5.8",
+    "podaje": "1.9",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Robert Williams",
+    "ekipa": "POR",
+    "pozicija": "C",
+    "tekme": "20",
+    "točke": "5.8",
+    "podaje": "1.1",
+    "skoki": "5.9"
+  },
+  {
+    "ime": "Moussa Diabaté",
+    "ekipa": "CHO",
+    "pozicija": "C",
+    "tekme": "71",
+    "točke": "5.7",
+    "podaje": "0.8",
+    "skoki": "6.2"
+  },
+  {
+    "ime": "Dariq Whitehead",
+    "ekipa": "BRK",
+    "pozicija": "SF",
+    "tekme": "20",
+    "točke": "5.7",
+    "podaje": "0.6",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Landry Shamet",
+    "ekipa": "NYK",
+    "pozicija": "SG",
+    "tekme": "50",
+    "točke": "5.7",
+    "podaje": "0.5",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Jordan Goodwin",
+    "ekipa": "LAL",
+    "pozicija": "PG",
+    "tekme": "29",
+    "točke": "5.6",
+    "podaje": "1.4",
+    "skoki": "3.9"
+  },
+  {
+    "ime": "Shake Milton",
+    "ekipa": "BRK",
+    "pozicija": "SG",
+    "tekme": "27",
+    "točke": "7.4",
+    "podaje": "2.4",
+    "skoki": "1.9"
+  },
+  {
+    "ime": "Shake Milton",
+    "ekipa": "LAL",
+    "pozicija": "SG",
+    "tekme": "30",
+    "točke": "3.9",
+    "podaje": "1.3",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Aaron Holiday",
+    "ekipa": "HOU",
+    "pozicija": "PG",
+    "tekme": "62",
+    "točke": "5.5",
+    "podaje": "1.3",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Jeff Green",
+    "ekipa": "HOU",
+    "pozicija": "PF",
+    "tekme": "32",
+    "točke": "5.4",
+    "podaje": "0.6",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Jonathan Isaac",
+    "ekipa": "ORL",
+    "pozicija": "PF",
+    "tekme": "71",
+    "točke": "5.4",
+    "podaje": "0.6",
+    "skoki": "4.4"
+  },
+  {
+    "ime": "Dean Wade",
+    "ekipa": "CLE",
+    "pozicija": "PF",
+    "tekme": "59",
+    "točke": "5.4",
+    "podaje": "1.3",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Keaton Wallace",
+    "ekipa": "ATL",
+    "pozicija": "PG",
+    "tekme": "31",
+    "točke": "5.4",
+    "podaje": "2.6",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Kobe Bufkin",
+    "ekipa": "ATL",
+    "pozicija": "SG",
+    "tekme": "10",
+    "točke": "5.3",
+    "podaje": "1.7",
+    "skoki": "2.1"
+  },
+  {
+    "ime": "Jamal Cain",
+    "ekipa": "NOP",
+    "pozicija": "SF",
+    "tekme": "37",
+    "točke": "5.3",
+    "podaje": "0.6",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Pat Connaughton",
+    "ekipa": "MIL",
+    "pozicija": "SG",
+    "tekme": "41",
+    "točke": "5.3",
+    "podaje": "1.7",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Kevin Love",
+    "ekipa": "MIA",
+    "pozicija": "PF",
+    "tekme": "23",
+    "točke": "5.3",
+    "podaje": "1.0",
+    "skoki": "4.1"
+  },
+  {
+    "ime": "Ben Sheppard",
+    "ekipa": "IND",
+    "pozicija": "SG",
+    "tekme": "63",
+    "točke": "5.3",
+    "podaje": "1.3",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Monte Morris",
+    "ekipa": "PHO",
+    "pozicija": "PG",
+    "tekme": "45",
+    "točke": "5.2",
+    "podaje": "1.6",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Jabari Walker",
+    "ekipa": "POR",
+    "pozicija": "SF",
+    "tekme": "60",
+    "točke": "5.2",
+    "podaje": "0.6",
+    "skoki": "3.5"
+  },
+  {
+    "ime": "Javonte Green",
+    "ekipa": "NOP",
+    "pozicija": "SG",
+    "tekme": "50",
+    "točke": "5.8",
+    "podaje": "0.9",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Javonte Green",
+    "ekipa": "CLE",
+    "pozicija": "SG",
+    "tekme": "18",
+    "točke": "3.3",
+    "podaje": "0.6",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Alex Reese",
+    "ekipa": "OKC",
+    "pozicija": "PF",
+    "tekme": "1",
+    "točke": "2.0",
+    "podaje": "0.0",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Alex Reese",
+    "ekipa": "PHI",
+    "pozicija": "PF",
+    "tekme": "14",
+    "točke": "5.3",
+    "podaje": "0.3",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Bismack Biyombo",
+    "ekipa": "SAS",
+    "pozicija": "C",
+    "tekme": "28",
+    "točke": "5.1",
+    "podaje": "1.1",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Mitchell Robinson",
+    "ekipa": "NYK",
+    "pozicija": "C",
+    "tekme": "17",
+    "točke": "5.1",
+    "podaje": "0.8",
+    "skoki": "5.9"
+  },
+  {
+    "ime": "Kai Jones",
+    "ekipa": "LAC",
+    "pozicija": "C",
+    "tekme": "28",
+    "točke": "2.2",
+    "podaje": "0.4",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Kai Jones",
+    "ekipa": "DAL",
+    "pozicija": "C",
+    "tekme": "12",
+    "točke": "11.4",
+    "podaje": "1.3",
+    "skoki": "6.6"
+  },
+  {
+    "ime": "Ben Simmons",
+    "ekipa": "BRK",
+    "pozicija": "PG",
+    "tekme": "33",
+    "točke": "6.2",
+    "podaje": "6.9",
+    "skoki": "5.2"
+  },
+  {
+    "ime": "Ben Simmons",
+    "ekipa": "LAC",
+    "pozicija": "PG",
+    "tekme": "18",
+    "točke": "2.9",
+    "podaje": "3.1",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Malaki Branham",
+    "ekipa": "SAS",
+    "pozicija": "SG",
+    "tekme": "47",
+    "točke": "5.0",
+    "podaje": "0.8",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "Neemias Queta",
+    "ekipa": "BOS",
+    "pozicija": "C",
+    "tekme": "62",
+    "točke": "5.0",
+    "podaje": "0.7",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Alondes Williams",
+    "ekipa": "DET",
+    "pozicija": "SG",
+    "tekme": "1",
+    "točke": "5.0",
+    "podaje": "1.0",
+    "skoki": "0.0"
+  },
+  {
+    "ime": "Jaylen Martin",
+    "ekipa": "BRK",
+    "pozicija": "SF",
+    "tekme": "3",
+    "točke": "1.0",
+    "podaje": "0.0",
+    "skoki": "0.0"
+  },
+  {
+    "ime": "Jaylen Martin",
+    "ekipa": "WAS",
+    "pozicija": "SF",
+    "tekme": "13",
+    "točke": "5.8",
+    "podaje": "1.3",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Lindy Waters III",
+    "ekipa": "GSW",
+    "pozicija": "SG",
+    "tekme": "38",
+    "točke": "5.5",
+    "podaje": "1.1",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Lindy Waters III",
+    "ekipa": "DET",
+    "pozicija": "SG",
+    "tekme": "14",
+    "točke": "3.4",
+    "podaje": "0.7",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Trevelin Queen",
+    "ekipa": "ORL",
+    "pozicija": "SG",
+    "tekme": "31",
+    "točke": "4.9",
+    "podaje": "1.2",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Jock Landale",
+    "ekipa": "HOU",
+    "pozicija": "C",
+    "tekme": "42",
+    "točke": "4.8",
+    "podaje": "0.9",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Colin Castleton",
+    "ekipa": "3TM",
+    "pozicija": "C",
+    "tekme": "26",
+    "točke": "4.7",
+    "podaje": "1.1",
+    "skoki": "4.7"
+  },
+  {
+    "ime": "Colin Castleton",
+    "ekipa": "MEM",
+    "pozicija": "C",
+    "tekme": "10",
+    "točke": "1.4",
+    "podaje": "0.0",
+    "skoki": "0.9"
+  },
+  {
+    "ime": "Colin Castleton",
+    "ekipa": "TOR",
+    "pozicija": "C",
+    "tekme": "11",
+    "točke": "7.2",
+    "podaje": "1.6",
+    "skoki": "6.9"
+  },
+  {
+    "ime": "Colin Castleton",
+    "ekipa": "PHI",
+    "pozicija": "C",
+    "tekme": "5",
+    "točke": "6.0",
+    "podaje": "2.0",
+    "skoki": "7.4"
+  },
+  {
+    "ime": "Taylor Hendricks",
+    "ekipa": "UTA",
+    "pozicija": "PF",
+    "tekme": "3",
+    "točke": "4.7",
+    "podaje": "0.7",
+    "skoki": "5.0"
+  },
+  {
+    "ime": "David Roddy",
+    "ekipa": "3TM",
+    "pozicija": "PF",
+    "tekme": "33",
+    "točke": "4.6",
+    "podaje": "1.1",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "David Roddy",
+    "ekipa": "ATL",
+    "pozicija": "PF",
+    "tekme": "27",
+    "točke": "4.5",
+    "podaje": "1.1",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "David Roddy",
+    "ekipa": "PHI",
+    "pozicija": "PF",
+    "tekme": "3",
+    "točke": "6.0",
+    "podaje": "1.0",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "David Roddy",
+    "ekipa": "HOU",
+    "pozicija": "PF",
+    "tekme": "3",
+    "točke": "4.3",
+    "podaje": "0.7",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Drew Eubanks",
+    "ekipa": "UTA",
+    "pozicija": "C",
+    "tekme": "37",
+    "točke": "5.8",
+    "podaje": "1.2",
+    "skoki": "4.5"
+  },
+  {
+    "ime": "Drew Eubanks",
+    "ekipa": "LAC",
+    "pozicija": "C",
+    "tekme": "24",
+    "točke": "2.7",
+    "podaje": "0.4",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Pelle Larsson",
+    "ekipa": "MIA",
+    "pozicija": "SG",
+    "tekme": "55",
+    "točke": "4.6",
+    "podaje": "1.2",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Julian Phillips",
+    "ekipa": "CHI",
+    "pozicija": "SF",
+    "tekme": "79",
+    "točke": "4.6",
+    "podaje": "0.5",
+    "skoki": "2.1"
+  },
+  {
+    "ime": "Cody Williams",
+    "ekipa": "UTA",
+    "pozicija": "SG",
+    "tekme": "50",
+    "točke": "4.6",
+    "podaje": "1.2",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Rob Dillingham",
+    "ekipa": "MIN",
+    "pozicija": "PG",
+    "tekme": "49",
+    "točke": "4.5",
+    "podaje": "2.0",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Jett Howard",
+    "ekipa": "ORL",
+    "pozicija": "SF",
+    "tekme": "60",
+    "točke": "4.5",
+    "podaje": "0.7",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Kevon Looney",
+    "ekipa": "GSW",
+    "pozicija": "C",
+    "tekme": "76",
+    "točke": "4.5",
+    "podaje": "1.6",
+    "skoki": "6.1"
+  },
+  {
+    "ime": "Mason Plumlee",
+    "ekipa": "PHO",
+    "pozicija": "C",
+    "tekme": "74",
+    "točke": "4.5",
+    "podaje": "1.8",
+    "skoki": "6.1"
+  },
+  {
+    "ime": "Dalen Terry",
+    "ekipa": "CHI",
+    "pozicija": "SG",
+    "tekme": "73",
+    "točke": "4.5",
+    "podaje": "1.3",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Marvin Bagley III",
+    "ekipa": "WAS",
+    "pozicija": "C",
+    "tekme": "19",
+    "točke": "4.9",
+    "podaje": "0.4",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Marvin Bagley III",
+    "ekipa": "MEM",
+    "pozicija": "PF",
+    "tekme": "12",
+    "točke": "3.6",
+    "podaje": "0.3",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Charles Bassey",
+    "ekipa": "SAS",
+    "pozicija": "C",
+    "tekme": "36",
+    "točke": "4.4",
+    "podaje": "0.5",
+    "skoki": "4.2"
+  },
+  {
+    "ime": "Tony Bradley",
+    "ekipa": "IND",
+    "pozicija": "C",
+    "tekme": "14",
+    "točke": "4.4",
+    "podaje": "0.4",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Reggie Jackson",
+    "ekipa": "PHI",
+    "pozicija": "PG",
+    "tekme": "31",
+    "točke": "4.4",
+    "podaje": "1.5",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Reed Sheppard",
+    "ekipa": "HOU",
+    "pozicija": "PG",
+    "tekme": "52",
+    "točke": "4.4",
+    "podaje": "1.4",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Lamar Stevens",
+    "ekipa": "MEM",
+    "pozicija": "PF",
+    "tekme": "17",
+    "točke": "4.4",
+    "podaje": "0.5",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Mo Bamba",
+    "ekipa": "LAC",
+    "pozicija": "C",
+    "tekme": "28",
+    "točke": "4.6",
+    "podaje": "0.6",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Mo Bamba",
+    "ekipa": "NOP",
+    "pozicija": "C",
+    "tekme": "4",
+    "točke": "2.5",
+    "podaje": "0.5",
+    "skoki": "6.3"
+  },
+  {
+    "ime": "Jevon Carter",
+    "ekipa": "CHI",
+    "pozicija": "PG",
+    "tekme": "36",
+    "točke": "4.3",
+    "podaje": "1.1",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "Micah Potter",
+    "ekipa": "UTA",
+    "pozicija": "C",
+    "tekme": "38",
+    "točke": "4.3",
+    "podaje": "0.8",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Terrence Shannon Jr.",
+    "ekipa": "MIN",
+    "pozicija": "SG",
+    "tekme": "32",
+    "točke": "4.3",
+    "podaje": "1.0",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Daniel Theis",
+    "ekipa": "NOP",
+    "pozicija": "C",
+    "tekme": "38",
+    "točke": "4.3",
+    "podaje": "1.6",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Torrey Craig",
+    "ekipa": "CHI",
+    "pozicija": "SF",
+    "tekme": "9",
+    "točke": "6.9",
+    "podaje": "0.6",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Torrey Craig",
+    "ekipa": "BOS",
+    "pozicija": "SF",
+    "tekme": "17",
+    "točke": "2.7",
+    "podaje": "0.7",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Wendell Moore Jr.",
+    "ekipa": "DET",
+    "pozicija": "SG",
+    "tekme": "20",
+    "točke": "3.2",
+    "podaje": "1.2",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Wendell Moore Jr.",
+    "ekipa": "CHO",
+    "pozicija": "SG",
+    "tekme": "16",
+    "točke": "5.4",
+    "podaje": "1.2",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Dominick Barlow",
+    "ekipa": "ATL",
+    "pozicija": "SF",
+    "tekme": "35",
+    "točke": "4.2",
+    "podaje": "0.5",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Kessler Edwards",
+    "ekipa": "DAL",
+    "pozicija": "SF",
+    "tekme": "40",
+    "točke": "4.2",
+    "podaje": "1.1",
+    "skoki": "2.9"
+  },
+  {
+    "ime": "Oso Ighodaro",
+    "ekipa": "PHO",
+    "pozicija": "PF",
+    "tekme": "61",
+    "točke": "4.2",
+    "podaje": "1.2",
+    "skoki": "3.6"
+  },
+  {
+    "ime": "Kris Murray",
+    "ekipa": "POR",
+    "pozicija": "SF",
+    "tekme": "69",
+    "točke": "4.2",
+    "podaje": "1.0",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Duop Reath",
+    "ekipa": "POR",
+    "pozicija": "C",
+    "tekme": "46",
+    "točke": "4.2",
+    "podaje": "0.6",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Cam Spencer",
+    "ekipa": "MEM",
+    "pozicija": "SG",
+    "tekme": "25",
+    "točke": "4.2",
+    "podaje": "1.4",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Maxwell Lewis",
+    "ekipa": "LAL",
+    "pozicija": "SF",
+    "tekme": "7",
+    "točke": "0.6",
+    "podaje": "0.3",
+    "skoki": "0.3"
+  },
+  {
+    "ime": "Maxwell Lewis",
+    "ekipa": "BRK",
+    "pozicija": "SF",
+    "tekme": "21",
+    "točke": "5.3",
+    "podaje": "0.8",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Jaylen Clark",
+    "ekipa": "MIN",
+    "pozicija": "SG",
+    "tekme": "40",
+    "točke": "4.1",
+    "podaje": "0.7",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Caleb Houstan",
+    "ekipa": "ORL",
+    "pozicija": "SF",
+    "tekme": "58",
+    "točke": "4.1",
+    "podaje": "0.6",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Jordan Miller",
+    "ekipa": "LAC",
+    "pozicija": "SF",
+    "tekme": "37",
+    "točke": "4.1",
+    "podaje": "0.9",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Jalen Pickett",
+    "ekipa": "DEN",
+    "pozicija": "SG",
+    "tekme": "49",
+    "točke": "4.1",
+    "podaje": "2.2",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Paul Reed",
+    "ekipa": "DET",
+    "pozicija": "C",
+    "tekme": "45",
+    "točke": "4.1",
+    "podaje": "1.0",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Gui Santos",
+    "ekipa": "GSW",
+    "pozicija": "PF",
+    "tekme": "56",
+    "točke": "4.1",
+    "podaje": "1.4",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Jarred Vanderbilt",
+    "ekipa": "LAL",
+    "pozicija": "PF",
+    "tekme": "36",
+    "točke": "4.1",
+    "podaje": "1.1",
+    "skoki": "5.1"
+  },
+  {
+    "ime": "Colby Jones",
+    "ekipa": "SAC",
+    "pozicija": "SG",
+    "tekme": "24",
+    "točke": "1.1",
+    "podaje": "0.3",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Colby Jones",
+    "ekipa": "WAS",
+    "pozicija": "SG",
+    "tekme": "15",
+    "točke": "8.7",
+    "podaje": "2.5",
+    "skoki": "4.3"
+  },
+  {
+    "ime": "Nicolas Batum",
+    "ekipa": "LAC",
+    "pozicija": "PF",
+    "tekme": "78",
+    "točke": "4.0",
+    "podaje": "1.1",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Malachi Flynn",
+    "ekipa": "CHO",
+    "pozicija": "PG",
+    "tekme": "4",
+    "točke": "4.0",
+    "podaje": "1.8",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Ron Harper Jr.",
+    "ekipa": "DET",
+    "pozicija": "SF",
+    "tekme": "1",
+    "točke": "4.0",
+    "podaje": "2.0",
+    "skoki": "7.0"
+  },
+  {
+    "ime": "Josh Richardson",
+    "ekipa": "MIA",
+    "pozicija": "SG",
+    "tekme": "8",
+    "točke": "4.0",
+    "podaje": "1.5",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Steven Adams",
+    "ekipa": "HOU",
+    "pozicija": "C",
+    "tekme": "58",
+    "točke": "3.9",
+    "podaje": "1.1",
+    "skoki": "5.6"
+  },
+  {
+    "ime": "Kyle Lowry",
+    "ekipa": "PHI",
+    "pozicija": "PG",
+    "tekme": "35",
+    "točke": "3.9",
+    "podaje": "2.7",
+    "skoki": "1.9"
+  },
+  {
+    "ime": "Olivier-Maxence Prosper",
+    "ekipa": "DAL",
+    "pozicija": "PF",
+    "tekme": "52",
+    "točke": "3.9",
+    "podaje": "0.8",
+    "skoki": "2.4"
+  },
+  {
+    "ime": "Patty Mills",
+    "ekipa": "UTA",
+    "pozicija": "PG",
+    "tekme": "17",
+    "točke": "4.4",
+    "podaje": "1.2",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Patty Mills",
+    "ekipa": "LAC",
+    "pozicija": "PG",
+    "tekme": "12",
+    "točke": "3.1",
+    "podaje": "0.4",
+    "skoki": "0.1"
+  },
+  {
+    "ime": "Branden Carlson",
+    "ekipa": "OKC",
+    "pozicija": "C",
+    "tekme": "32",
+    "točke": "3.8",
+    "podaje": "0.4",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Devin Carter",
+    "ekipa": "SAC",
+    "pozicija": "PG",
+    "tekme": "36",
+    "točke": "3.8",
+    "podaje": "1.1",
+    "skoki": "2.1"
+  },
+  {
+    "ime": "Ousmane Dieng",
+    "ekipa": "OKC",
+    "pozicija": "C",
+    "tekme": "37",
+    "točke": "3.8",
+    "podaje": "0.8",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Markieff Morris",
+    "ekipa": "DAL",
+    "pozicija": "PF",
+    "tekme": "7",
+    "točke": "1.7",
+    "podaje": "0.6",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "Markieff Morris",
+    "ekipa": "LAL",
+    "pozicija": "PF",
+    "tekme": "8",
+    "točke": "5.5",
+    "podaje": "2.1",
+    "skoki": "1.9"
+  },
+  {
+    "ime": "Emoni Bates",
+    "ekipa": "CLE",
+    "pozicija": "SF",
+    "tekme": "10",
+    "točke": "3.7",
+    "podaje": "0.8",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "DeAndre Jordan",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "56",
+    "točke": "3.7",
+    "podaje": "0.9",
+    "skoki": "5.1"
+  },
+  {
+    "ime": "Craig Porter Jr.",
+    "ekipa": "CLE",
+    "pozicija": "PG",
+    "tekme": "51",
+    "točke": "3.7",
+    "podaje": "1.4",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Jackson Rowe",
+    "ekipa": "GSW",
+    "pozicija": "PF",
+    "tekme": "6",
+    "točke": "3.7",
+    "podaje": "0.7",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Blake Wesley",
+    "ekipa": "SAS",
+    "pozicija": "SG",
+    "tekme": "58",
+    "točke": "3.7",
+    "podaje": "2.0",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "JT Thor",
+    "ekipa": "CLE",
+    "pozicija": "PF",
+    "tekme": "9",
+    "točke": "3.1",
+    "podaje": "0.1",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "JT Thor",
+    "ekipa": "WAS",
+    "pozicija": "PF",
+    "tekme": "11",
+    "točke": "3.9",
+    "podaje": "0.5",
+    "skoki": "3.8"
+  },
+  {
+    "ime": "Baylor Scheierman",
+    "ekipa": "BOS",
+    "pozicija": "SG",
+    "tekme": "31",
+    "točke": "3.6",
+    "podaje": "1.1",
+    "skoki": "2.1"
+  },
+  {
+    "ime": "Jae'Sean Tate",
+    "ekipa": "HOU",
+    "pozicija": "SF",
+    "tekme": "52",
+    "točke": "3.6",
+    "podaje": "0.9",
+    "skoki": "2.3"
+  },
+  {
+    "ime": "Jaylon Tyson",
+    "ekipa": "CLE",
+    "pozicija": "SG",
+    "tekme": "47",
+    "točke": "3.6",
+    "podaje": "0.9",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Elfrid Payton",
+    "ekipa": "NOP",
+    "pozicija": "PG",
+    "tekme": "18",
+    "točke": "4.4",
+    "podaje": "8.1",
+    "skoki": "3.7"
+  },
+  {
+    "ime": "Elfrid Payton",
+    "ekipa": "CHO",
+    "pozicija": "PG",
+    "tekme": "6",
+    "točke": "1.0",
+    "podaje": "3.3",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Luka Garza",
+    "ekipa": "MIN",
+    "pozicija": "C",
+    "tekme": "39",
+    "točke": "3.5",
+    "podaje": "0.3",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Cory Joseph",
+    "ekipa": "ORL",
+    "pozicija": "PG",
+    "tekme": "50",
+    "točke": "3.5",
+    "podaje": "1.4",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Doug McDermott",
+    "ekipa": "SAC",
+    "pozicija": "SF",
+    "tekme": "42",
+    "točke": "3.5",
+    "podaje": "0.2",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Dario Šarić",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "16",
+    "točke": "3.5",
+    "podaje": "1.4",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Jamaree Bouyea",
+    "ekipa": "MIL",
+    "pozicija": "PG",
+    "tekme": "5",
+    "točke": "3.4",
+    "podaje": "2.0",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Bruno Fernando",
+    "ekipa": "TOR",
+    "pozicija": "C",
+    "tekme": "17",
+    "točke": "3.4",
+    "podaje": "1.1",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Andre Jackson Jr.",
+    "ekipa": "MIL",
+    "pozicija": "SG",
+    "tekme": "67",
+    "točke": "3.4",
+    "podaje": "1.2",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Isaac Jones",
+    "ekipa": "SAC",
+    "pozicija": "PF",
+    "tekme": "40",
+    "točke": "3.4",
+    "podaje": "0.3",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Kevin Knox",
+    "ekipa": "GSW",
+    "pozicija": "SF",
+    "tekme": "14",
+    "točke": "3.3",
+    "podaje": "0.4",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Damion Lee",
+    "ekipa": "PHO",
+    "pozicija": "SG",
+    "tekme": "25",
+    "točke": "3.3",
+    "podaje": "0.4",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Jeenathan Williams",
+    "ekipa": "HOU",
+    "pozicija": "SG",
+    "tekme": "20",
+    "točke": "3.3",
+    "podaje": "0.5",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "Elijah Harkless",
+    "ekipa": "UTA",
+    "pozicija": "SG",
+    "tekme": "10",
+    "točke": "3.2",
+    "podaje": "0.8",
+    "skoki": "2.1"
+  },
+  {
+    "ime": "Zeke Nnaji",
+    "ekipa": "DEN",
+    "pozicija": "PF",
+    "tekme": "57",
+    "točke": "3.2",
+    "podaje": "0.4",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Cam Reddish",
+    "ekipa": "LAL",
+    "pozicija": "SF",
+    "tekme": "33",
+    "točke": "3.2",
+    "podaje": "0.7",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Delon Wright",
+    "ekipa": "MIL",
+    "pozicija": "PG",
+    "tekme": "26",
+    "točke": "2.5",
+    "podaje": "1.8",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Delon Wright",
+    "ekipa": "NYK",
+    "pozicija": "PG",
+    "tekme": "14",
+    "točke": "4.3",
+    "podaje": "2.1",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Kylor Kelley",
+    "ekipa": "DAL",
+    "pozicija": "C",
+    "tekme": "8",
+    "točke": "3.0",
+    "podaje": "0.3",
+    "skoki": "2.6"
+  },
+  {
+    "ime": "Kylor Kelley",
+    "ekipa": "NOP",
+    "pozicija": "C",
+    "tekme": "3",
+    "točke": "3.3",
+    "podaje": "1.0",
+    "skoki": "6.0"
+  },
+  {
+    "ime": "Gary Harris",
+    "ekipa": "ORL",
+    "pozicija": "SG",
+    "tekme": "48",
+    "točke": "3.0",
+    "podaje": "0.6",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Maxi Kleber",
+    "ekipa": "DAL",
+    "pozicija": "PF",
+    "tekme": "34",
+    "točke": "3.0",
+    "podaje": "1.3",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Taze Moore",
+    "ekipa": "POR",
+    "pozicija": "SG",
+    "tekme": "2",
+    "točke": "3.0",
+    "podaje": "0.5",
+    "skoki": "4.0"
+  },
+  {
+    "ime": "Rayan Rupert",
+    "ekipa": "POR",
+    "pozicija": "SG",
+    "tekme": "52",
+    "točke": "3.0",
+    "podaje": "0.5",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "P.J. Tucker",
+    "ekipa": "NYK",
+    "pozicija": "SF",
+    "tekme": "3",
+    "točke": "3.0",
+    "podaje": "0.0",
+    "skoki": "2.7"
+  },
+  {
+    "ime": "Pete Nance",
+    "ekipa": "PHI",
+    "pozicija": "C",
+    "tekme": "7",
+    "točke": "2.1",
+    "podaje": "0.4",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Pete Nance",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "6",
+    "točke": "3.8",
+    "podaje": "1.2",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Markelle Fultz",
+    "ekipa": "SAC",
+    "pozicija": "PG",
+    "tekme": "21",
+    "točke": "2.9",
+    "podaje": "1.3",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Taj Gibson",
+    "ekipa": "CHO",
+    "pozicija": "C",
+    "tekme": "37",
+    "točke": "2.9",
+    "podaje": "0.6",
+    "skoki": "3.2"
+  },
+  {
+    "ime": "Tyler Smith",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "23",
+    "točke": "2.9",
+    "podaje": "0.2",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "RayJ Dennis",
+    "ekipa": "IND",
+    "pozicija": "PG",
+    "tekme": "11",
+    "točke": "2.7",
+    "podaje": "1.3",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "David Duke Jr.",
+    "ekipa": "SAS",
+    "pozicija": "SG",
+    "tekme": "6",
+    "točke": "2.7",
+    "podaje": "0.7",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Keshad Johnson",
+    "ekipa": "MIA",
+    "pozicija": "SF",
+    "tekme": "16",
+    "točke": "2.7",
+    "podaje": "0.3",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Reece Beekman",
+    "ekipa": "GSW",
+    "pozicija": "PG",
+    "tekme": "2",
+    "točke": "1.0",
+    "podaje": "0.5",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Reece Beekman",
+    "ekipa": "BRK",
+    "pozicija": "PG",
+    "tekme": "34",
+    "točke": "2.7",
+    "podaje": "1.8",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "Jae Crowder",
+    "ekipa": "SAC",
+    "pozicija": "PF",
+    "tekme": "9",
+    "točke": "2.6",
+    "podaje": "0.7",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Josh Minott",
+    "ekipa": "MIN",
+    "pozicija": "SF",
+    "tekme": "46",
+    "točke": "2.6",
+    "podaje": "0.4",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Hunter Tyson",
+    "ekipa": "DEN",
+    "pozicija": "PF",
+    "tekme": "51",
+    "točke": "2.6",
+    "podaje": "0.4",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Jaden Springer",
+    "ekipa": "BOS",
+    "pozicija": "SG",
+    "tekme": "26",
+    "točke": "1.7",
+    "podaje": "0.4",
+    "skoki": "0.9"
+  },
+  {
+    "ime": "Jaden Springer",
+    "ekipa": "UTA",
+    "pozicija": "PG",
+    "tekme": "17",
+    "točke": "3.8",
+    "podaje": "1.4",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Trey Jemison",
+    "ekipa": "NOP",
+    "pozicija": "C",
+    "tekme": "16",
+    "točke": "2.4",
+    "podaje": "0.6",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Trey Jemison",
+    "ekipa": "LAL",
+    "pozicija": "C",
+    "tekme": "22",
+    "točke": "2.6",
+    "podaje": "0.3",
+    "skoki": "2.8"
+  },
+  {
+    "ime": "Anthony Gill",
+    "ekipa": "WAS",
+    "pozicija": "PF",
+    "tekme": "51",
+    "točke": "2.5",
+    "podaje": "0.3",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Dillon Jones",
+    "ekipa": "OKC",
+    "pozicija": "SF",
+    "tekme": "54",
+    "točke": "2.5",
+    "podaje": "1.1",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Pat Spencer",
+    "ekipa": "GSW",
+    "pozicija": "PG",
+    "tekme": "39",
+    "točke": "2.5",
+    "podaje": "1.2",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Johnny Davis",
+    "ekipa": "WAS",
+    "pozicija": "SG",
+    "tekme": "34",
+    "točke": "2.4",
+    "podaje": "0.3",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "Christian Koloko",
+    "ekipa": "LAL",
+    "pozicija": "C",
+    "tekme": "37",
+    "točke": "2.4",
+    "podaje": "0.4",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "John Konchar",
+    "ekipa": "MEM",
+    "pozicija": "SG",
+    "tekme": "46",
+    "točke": "2.4",
+    "podaje": "0.9",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "MarJon Beauchamp",
+    "ekipa": "3TM",
+    "pozicija": "SF",
+    "tekme": "35",
+    "točke": "2.3",
+    "podaje": "0.3",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "MarJon Beauchamp",
+    "ekipa": "MIL",
+    "pozicija": "SF",
+    "tekme": "26",
+    "točke": "2.0",
+    "podaje": "0.3",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "MarJon Beauchamp",
+    "ekipa": "LAC",
+    "pozicija": "SF",
+    "tekme": "3",
+    "točke": "4.0",
+    "podaje": "0.7",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "MarJon Beauchamp",
+    "ekipa": "NYK",
+    "pozicija": "SF",
+    "tekme": "6",
+    "točke": "2.5",
+    "podaje": "0.2",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Bronny James",
+    "ekipa": "LAL",
+    "pozicija": "SG",
+    "tekme": "27",
+    "točke": "2.3",
+    "podaje": "0.8",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "Mason Jones",
+    "ekipa": "SAC",
+    "pozicija": "SG",
+    "tekme": "10",
+    "točke": "2.3",
+    "podaje": "1.1",
+    "skoki": "0.9"
+  },
+  {
+    "ime": "Miles Norris",
+    "ekipa": "BOS",
+    "pozicija": "PF",
+    "tekme": "3",
+    "točke": "2.3",
+    "podaje": "0.0",
+    "skoki": "3.0"
+  },
+  {
+    "ime": "Patrick Baldwin Jr.",
+    "ekipa": "WAS",
+    "pozicija": "SF",
+    "tekme": "22",
+    "točke": "2.1",
+    "podaje": "0.1",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Patrick Baldwin Jr.",
+    "ekipa": "LAC",
+    "pozicija": "SF",
+    "tekme": "2",
+    "točke": "3.0",
+    "podaje": "0.5",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Drew Peterson",
+    "ekipa": "BOS",
+    "pozicija": "PF",
+    "tekme": "25",
+    "točke": "2.2",
+    "podaje": "0.5",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "TyTy Washington Jr.",
+    "ekipa": "PHO",
+    "pozicija": "PG",
+    "tekme": "16",
+    "točke": "2.2",
+    "podaje": "1.0",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Jordan McLaughlin",
+    "ekipa": "SAC",
+    "pozicija": "PG",
+    "tekme": "28",
+    "točke": "1.9",
+    "podaje": "0.9",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Jordan McLaughlin",
+    "ekipa": "SAS",
+    "pozicija": "PG",
+    "tekme": "18",
+    "točke": "2.5",
+    "podaje": "1.5",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "JD Davison",
+    "ekipa": "BOS",
+    "pozicija": "PG",
+    "tekme": "16",
+    "točke": "2.1",
+    "podaje": "0.8",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Chris Duarte",
+    "ekipa": "CHI",
+    "pozicija": "SG",
+    "tekme": "17",
+    "točke": "2.1",
+    "podaje": "0.5",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Enrique Freeman",
+    "ekipa": "IND",
+    "pozicija": "PF",
+    "tekme": "22",
+    "točke": "2.1",
+    "podaje": "0.4",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Johnny Furphy",
+    "ekipa": "IND",
+    "pozicija": "SG",
+    "tekme": "50",
+    "točke": "2.1",
+    "podaje": "0.4",
+    "skoki": "1.4"
+  },
+  {
+    "ime": "Dwight Powell",
+    "ekipa": "DAL",
+    "pozicija": "C",
+    "tekme": "55",
+    "točke": "2.1",
+    "podaje": "1.0",
+    "skoki": "2.1"
+  },
+  {
+    "ime": "Josh Christopher",
+    "ekipa": "MIA",
+    "pozicija": "SG",
+    "tekme": "14",
+    "točke": "2.0",
+    "podaje": "0.6",
+    "skoki": "0.6"
+  },
+  {
+    "ime": "Tyler Kolek",
+    "ekipa": "NYK",
+    "pozicija": "PG",
+    "tekme": "41",
+    "točke": "2.0",
+    "podaje": "1.7",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "Adama Sanogo",
+    "ekipa": "CHI",
+    "pozicija": "C",
+    "tekme": "4",
+    "točke": "2.0",
+    "podaje": "0.3",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Kobe Brown",
+    "ekipa": "LAC",
+    "pozicija": "PF",
+    "tekme": "40",
+    "točke": "1.9",
+    "podaje": "0.6",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Ariel Hukporti",
+    "ekipa": "NYK",
+    "pozicija": "C",
+    "tekme": "25",
+    "točke": "1.9",
+    "podaje": "0.4",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Bobi Klintman",
+    "ekipa": "DET",
+    "pozicija": "SF",
+    "tekme": "8",
+    "točke": "1.9",
+    "podaje": "0.9",
+    "skoki": "0.9"
+  },
+  {
+    "ime": "Garrett Temple",
+    "ekipa": "TOR",
+    "pozicija": "SG",
+    "tekme": "28",
+    "točke": "1.9",
+    "podaje": "1.1",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Jericho Sims",
+    "ekipa": "NYK",
+    "pozicija": "C",
+    "tekme": "39",
+    "točke": "1.6",
+    "podaje": "0.6",
+    "skoki": "3.3"
+  },
+  {
+    "ime": "Jericho Sims",
+    "ekipa": "MIL",
+    "pozicija": "C",
+    "tekme": "14",
+    "točke": "2.4",
+    "podaje": "0.8",
+    "skoki": "4.9"
+  },
+  {
+    "ime": "Vlatko Čančar",
+    "ekipa": "DEN",
+    "pozicija": "PF",
+    "tekme": "13",
+    "točke": "1.8",
+    "podaje": "0.7",
+    "skoki": "2.5"
+  },
+  {
+    "ime": "Adam Flagler",
+    "ekipa": "OKC",
+    "pozicija": "SG",
+    "tekme": "37",
+    "točke": "1.8",
+    "podaje": "0.3",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "Trentyn Flowers",
+    "ekipa": "LAC",
+    "pozicija": "SF",
+    "tekme": "6",
+    "točke": "1.8",
+    "podaje": "0.0",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "E.J. Liddell",
+    "ekipa": "CHI",
+    "pozicija": "PF",
+    "tekme": "12",
+    "točke": "1.8",
+    "podaje": "0.3",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Jahmir Young",
+    "ekipa": "CHI",
+    "pozicija": "PG",
+    "tekme": "6",
+    "točke": "1.8",
+    "podaje": "1.0",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Pacome Dadiet",
+    "ekipa": "NYK",
+    "pozicija": "SG",
+    "tekme": "18",
+    "točke": "1.7",
+    "podaje": "0.3",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Alex Ducas",
+    "ekipa": "OKC",
+    "pozicija": "SG",
+    "tekme": "21",
+    "točke": "1.7",
+    "podaje": "0.2",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "PJ Hall",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "19",
+    "točke": "1.7",
+    "podaje": "0.2",
+    "skoki": "1.2"
+  },
+  {
+    "ime": "Emanuel Miller",
+    "ekipa": "CHI",
+    "pozicija": "PF",
+    "tekme": "6",
+    "točke": "1.7",
+    "podaje": "0.3",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Tristan Thompson",
+    "ekipa": "CLE",
+    "pozicija": "C",
+    "tekme": "40",
+    "točke": "1.7",
+    "podaje": "0.6",
+    "skoki": "3.4"
+  },
+  {
+    "ime": "Alex Len",
+    "ekipa": "SAC",
+    "pozicija": "C",
+    "tekme": "36",
+    "točke": "1.4",
+    "podaje": "0.8",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Alex Len",
+    "ekipa": "LAL",
+    "pozicija": "C",
+    "tekme": "10",
+    "točke": "2.2",
+    "podaje": "0.8",
+    "skoki": "3.1"
+  },
+  {
+    "ime": "Yuki Kawamura",
+    "ekipa": "MEM",
+    "pozicija": "PG",
+    "tekme": "22",
+    "točke": "1.6",
+    "podaje": "0.9",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Jack McVeigh",
+    "ekipa": "HOU",
+    "pozicija": "PF",
+    "tekme": "9",
+    "točke": "1.6",
+    "podaje": "0.1",
+    "skoki": "0.6"
+  },
+  {
+    "ime": "Armel Traoré",
+    "ekipa": "LAL",
+    "pozicija": "SF",
+    "tekme": "9",
+    "točke": "1.6",
+    "podaje": "0.1",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Jordan Walsh",
+    "ekipa": "BOS",
+    "pozicija": "PF",
+    "tekme": "52",
+    "točke": "1.6",
+    "podaje": "0.4",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Phillip Wheeler",
+    "ekipa": "PHI",
+    "pozicija": "PF",
+    "tekme": "5",
+    "točke": "1.6",
+    "podaje": "0.4",
+    "skoki": "1.6"
+  },
+  {
+    "ime": "Sidy Cissoko",
+    "ekipa": "SAS",
+    "pozicija": "SF",
+    "tekme": "17",
+    "točke": "1.3",
+    "podaje": "0.4",
+    "skoki": "0.6"
+  },
+  {
+    "ime": "Sidy Cissoko",
+    "ekipa": "POR",
+    "pozicija": "SF",
+    "tekme": "5",
+    "točke": "2.0",
+    "podaje": "1.8",
+    "skoki": "2.2"
+  },
+  {
+    "ime": "Jazian Gortman",
+    "ekipa": "DAL",
+    "pozicija": "PG",
+    "tekme": "16",
+    "točke": "1.5",
+    "podaje": "0.4",
+    "skoki": "0.3"
+  },
+  {
+    "ime": "Kevin McCullar Jr.",
+    "ekipa": "NYK",
+    "pozicija": "SF",
+    "tekme": "4",
+    "točke": "1.5",
+    "podaje": "0.5",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Leonard Miller",
+    "ekipa": "MIN",
+    "pozicija": "SF",
+    "tekme": "13",
+    "točke": "1.5",
+    "podaje": "0.0",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Quincy Olivari",
+    "ekipa": "LAL",
+    "pozicija": "PG",
+    "tekme": "2",
+    "točke": "1.5",
+    "podaje": "0.5",
+    "skoki": "0.0"
+  },
+  {
+    "ime": "Matt Ryan",
+    "ekipa": "NYK",
+    "pozicija": "SF",
+    "tekme": "19",
+    "točke": "1.5",
+    "podaje": "0.2",
+    "skoki": "0.4"
+  },
+  {
+    "ime": "Jacob Toppin",
+    "ekipa": "NYK",
+    "pozicija": "SF",
+    "tekme": "16",
+    "točke": "0.4",
+    "podaje": "0.3",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "Jacob Toppin",
+    "ekipa": "ATL",
+    "pozicija": "SF",
+    "tekme": "1",
+    "točke": "17.0",
+    "podaje": "2.0",
+    "skoki": "4.0"
+  },
+  {
+    "ime": "Cam Christie",
+    "ekipa": "LAC",
+    "pozicija": "SG",
+    "tekme": "13",
+    "točke": "1.4",
+    "podaje": "0.5",
+    "skoki": "0.9"
+  },
+  {
+    "ime": "Chris Livingston",
+    "ekipa": "MIL",
+    "pozicija": "SF",
+    "tekme": "21",
+    "točke": "1.4",
+    "podaje": "0.2",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Trey Alexander",
+    "ekipa": "DEN",
+    "pozicija": "SG",
+    "tekme": "24",
+    "točke": "1.3",
+    "podaje": "0.5",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Spencer Jones",
+    "ekipa": "DEN",
+    "pozicija": "SF",
+    "tekme": "20",
+    "točke": "1.3",
+    "podaje": "0.3",
+    "skoki": "0.9"
+  },
+  {
+    "ime": "Skal Labissière",
+    "ekipa": "SAC",
+    "pozicija": "PF",
+    "tekme": "4",
+    "točke": "1.3",
+    "podaje": "0.3",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Jalen Bridges",
+    "ekipa": "PHO",
+    "pozicija": "SF",
+    "tekme": "8",
+    "točke": "1.1",
+    "podaje": "0.0",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Yuri Collins",
+    "ekipa": "GSW",
+    "pozicija": "PG",
+    "tekme": "2",
+    "točke": "1.0",
+    "podaje": "2.0",
+    "skoki": "1.5"
+  },
+  {
+    "ime": "Daniss Jenkins",
+    "ekipa": "DET",
+    "pozicija": "PG",
+    "tekme": "7",
+    "točke": "1.0",
+    "podaje": "0.4",
+    "skoki": "0.3"
+  },
+  {
+    "ime": "Braxton Key",
+    "ekipa": "GSW",
+    "pozicija": "SF",
+    "tekme": "3",
+    "točke": "1.0",
+    "podaje": "0.0",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "Bryce McGowens",
+    "ekipa": "POR",
+    "pozicija": "SG",
+    "tekme": "13",
+    "točke": "1.0",
+    "podaje": "0.2",
+    "skoki": "0.2"
+  },
+  {
+    "ime": "Xavier Tillman Sr.",
+    "ekipa": "BOS",
+    "pozicija": "C",
+    "tekme": "33",
+    "točke": "1.0",
+    "podaje": "0.2",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Luke Travers",
+    "ekipa": "CLE",
+    "pozicija": "SG",
+    "tekme": "12",
+    "točke": "1.0",
+    "podaje": "0.7",
+    "skoki": "1.7"
+  },
+  {
+    "ime": "Isaiah Crawford",
+    "ekipa": "SAC",
+    "pozicija": "SF",
+    "tekme": "15",
+    "točke": "0.9",
+    "podaje": "0.1",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Justin Minaya",
+    "ekipa": "POR",
+    "pozicija": "SF",
+    "tekme": "19",
+    "točke": "0.9",
+    "podaje": "0.4",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Anton Watson",
+    "ekipa": "NYK",
+    "pozicija": "SF",
+    "tekme": "9",
+    "točke": "0.9",
+    "podaje": "0.2",
+    "skoki": "0.3"
+  },
+  {
+    "ime": "D.J. Carton",
+    "ekipa": "TOR",
+    "pozicija": "SG",
+    "tekme": "4",
+    "točke": "0.8",
+    "podaje": "0.8",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "PJ Dozier",
+    "ekipa": "MIN",
+    "pozicija": "SG",
+    "tekme": "9",
+    "točke": "0.8",
+    "podaje": "0.6",
+    "skoki": "0.6"
+  },
+  {
+    "ime": "Joe Ingles",
+    "ekipa": "MIN",
+    "pozicija": "SF",
+    "tekme": "19",
+    "točke": "0.8",
+    "podaje": "1.2",
+    "skoki": "0.6"
+  },
+  {
+    "ime": "Harrison Ingram",
+    "ekipa": "SAS",
+    "pozicija": "SF",
+    "tekme": "5",
+    "točke": "0.8",
+    "podaje": "0.6",
+    "skoki": "1.8"
+  },
+  {
+    "ime": "Ulrich Chomche",
+    "ekipa": "TOR",
+    "pozicija": "PF",
+    "tekme": "7",
+    "točke": "0.7",
+    "podaje": "0.3",
+    "skoki": "1.1"
+  },
+  {
+    "ime": "James Johnson",
+    "ekipa": "IND",
+    "pozicija": "PF",
+    "tekme": "12",
+    "točke": "0.7",
+    "podaje": "0.3",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Liam Robbins",
+    "ekipa": "MIL",
+    "pozicija": "C",
+    "tekme": "13",
+    "točke": "0.7",
+    "podaje": "0.2",
+    "skoki": "0.9"
+  },
+  {
+    "ime": "Stanley Umude",
+    "ekipa": "MIL",
+    "pozicija": "SG",
+    "tekme": "22",
+    "točke": "0.7",
+    "podaje": "0.2",
+    "skoki": "0.8"
+  },
+  {
+    "ime": "Cui Yongxi",
+    "ekipa": "BRK",
+    "pozicija": "SG",
+    "tekme": "5",
+    "točke": "0.6",
+    "podaje": "0.0",
+    "skoki": "0.4"
+  },
+  {
+    "ime": "Tristen Newton",
+    "ekipa": "IND",
+    "pozicija": "SG",
+    "tekme": "5",
+    "točke": "0.6",
+    "podaje": "0.2",
+    "skoki": "0.0"
+  },
+  {
+    "ime": "Tristen Newton",
+    "ekipa": "MIN",
+    "pozicija": "SG",
+    "tekme": "3",
+    "točke": "0.0",
+    "podaje": "0.3",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Malevy Leons",
+    "ekipa": "OKC",
+    "pozicija": "SF",
+    "tekme": "6",
+    "točke": "0.3",
+    "podaje": "0.2",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Daishen Nix",
+    "ekipa": "MIN",
+    "pozicija": "PG",
+    "tekme": "3",
+    "točke": "0.3",
+    "podaje": "1.0",
+    "skoki": "1.3"
+  },
+  {
+    "ime": "Terence Davis",
+    "ekipa": "SAC",
+    "pozicija": "SG",
+    "tekme": "1",
+    "točke": "0.0",
+    "podaje": "1.0",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Jesse Edwards",
+    "ekipa": "MIN",
+    "pozicija": "C",
+    "tekme": "2",
+    "točke": "0.0",
+    "podaje": "0.5",
+    "skoki": "0.0"
+  },
+  {
+    "ime": "Mac McClung",
+    "ekipa": "ORL",
+    "pozicija": "SG",
+    "tekme": "2",
+    "točke": "0.0",
+    "podaje": "1.5",
+    "skoki": "0.5"
+  },
+  {
+    "ime": "Jalen McDaniels",
+    "ekipa": "WAS",
+    "pozicija": "SF",
+    "tekme": "4",
+    "točke": "0.0",
+    "podaje": "0.3",
+    "skoki": "0.0"
+  },
+  {
+    "ime": "Riley Minix",
+    "ekipa": "SAS",
+    "pozicija": "SF",
+    "tekme": "1",
+    "točke": "0.0",
+    "podaje": "0.0",
+    "skoki": "2.0"
+  },
+  {
+    "ime": "Jahlil Okafor",
+    "ekipa": "IND",
+    "pozicija": "C",
+    "tekme": "1",
+    "točke": "0.0",
+    "podaje": "1.0",
+    "skoki": "1.0"
+  },
+  {
+    "ime": "Zyon Pullin",
+    "ekipa": "MEM",
+    "pozicija": "SG",
+    "tekme": "3",
+    "točke": "0.0",
+    "podaje": "0.0",
+    "skoki": "0.0"
+  },
+  {
+    "ime": "Isaiah Stevens",
+    "ekipa": "MIA",
+    "pozicija": "PG",
+    "tekme": "3",
+    "točke": "0.0",
+    "podaje": "0.0",
+    "skoki": "0.7"
+  },
+  {
+    "ime": "Terry Taylor",
+    "ekipa": "SAC",
+    "pozicija": "PF",
+    "tekme": "3",
+    "točke": "0.0",
+    "podaje": "0.7",
+    "skoki": "0.3"
+  },
+  {
+    "ime": "NEZNANO",
+    "ekipa": "",
+    "pozicija": "",
+    "tekme": "",
+    "točke": "",
+    "podaje": "",
+    "skoki": ""
+  }
+]

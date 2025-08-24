@@ -1,0 +1,92 @@
+[
+  {
+    "ime": "Giannis Antetokounmpo",
+    "ekipa": "MIL",
+    "pozicija": "PF",
+    "tekme": "5",
+    "točke": "33.0",
+    "podaje": "6.6",
+    "skoki": "15.4"
+  },
+  {
+    "ime": "Nikola Jokić",
+    "ekipa": "DEN",
+    "pozicija": "C",
+    "tekme": "14",
+    "točke": "26.2",
+    "podaje": "8.0",
+    "skoki": "12.7"
+  },
+  {
+    "ime": "Alperen Şengün",
+    "ekipa": "HOU",
+    "pozicija": "C",
+    "tekme": "7",
+    "točke": "20.9",
+    "podaje": "5.3",
+    "skoki": "11.9"
+  },
+  {
+    "ime": "Karl-Anthony Towns",
+    "ekipa": "NYK",
+    "pozicija": "C",
+    "tekme": "18",
+    "točke": "21.4",
+    "podaje": "1.3",
+    "skoki": "11.6"
+  },
+  {
+    "ime": "Jayson Tatum",
+    "ekipa": "BOS",
+    "pozicija": "PF",
+    "tekme": "8",
+    "točke": "28.1",
+    "podaje": "5.4",
+    "skoki": "11.5"
+  },
+  {
+    "ime": "Bam Adebayo",
+    "ekipa": "MIA",
+    "pozicija": "C",
+    "tekme": "4",
+    "točke": "17.5",
+    "podaje": "4.3",
+    "skoki": "11.0"
+  },
+  {
+    "ime": "Wendell Carter Jr.",
+    "ekipa": "ORL",
+    "pozicija": "C",
+    "tekme": "5",
+    "točke": "10.2",
+    "podaje": "1.2",
+    "skoki": "10.8"
+  },
+  {
+    "ime": "Jalen Duren",
+    "ekipa": "DET",
+    "pozicija": "C",
+    "tekme": "6",
+    "točke": "11.8",
+    "podaje": "3.5",
+    "skoki": "10.7"
+  },
+  {
+    "ime": "Ivica Zubac",
+    "ekipa": "LAC",
+    "pozicija": "C",
+    "tekme": "7",
+    "točke": "17.4",
+    "podaje": "2.3",
+    "skoki": "10.1"
+  },
+  {
+    "ime": "LeBron James",
+    "ekipa": "LAL",
+    "pozicija": "SF",
+    "tekme": "5",
+    "točke": "25.4",
+    "podaje": "5.6",
+    "skoki": "9.0"
+  }
+]
